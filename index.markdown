@@ -17,8 +17,6 @@ We want people’s experience of public services to be positive and seamless. Th
 
 Our aim is to help the public sector make the most of the opportunities digital offers to make services better for the people who depend on them. And, ultimately, to free up more resources for essential front line services like education, health and social care, housing, welfare, and policing.
 
-Test edit
-
 ### Our values
 
 We think that it's very important to have a talented team if we're going to succeed. But just as important as raw talent is our ability to work well together. These are the values that we aspire to, and help each other to achieve.
@@ -363,9 +361,9 @@ Each user story will also contain a list of acceptance criteria. Acceptance crit
 
 For more information about writing good stories, we recommend reading User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
-##### Lifecycle of a story<!-- TODO: This section should be an explanation of what happens to a story as
-it is worked on, focussing on "why" rather than "how" and explaining the
-philosophy. -->
+##### Lifecycle of a story&lt;\!– TODO: This section should be an explanation of what happens to a story as
+
+it is worked on, focussing on "why" rather than "how" and explaining the philosophy. –&gt;
 
 There are several states that a story has to go through in order to be deployed to production. We use Trello and physical story boards to keep track of which stage a given story is in.
 
@@ -1641,17 +1639,17 @@ Product managers at dxw follow these principles.
 
 10. **Strong opinions, softly held**
 
-   Product managers make the best decisions based on the available information with confidence, staying open to the possibility that things could change when more information is available in the future.
+Product managers make the best decisions based on the available information with confidence, staying open to the possibility that things could change when more information is available in the future.
 
-   Product managers communicate the trade-offs they’re making and the rationale for their decisions so that teams can understand how a decision was reached, even when they don’t agree.
+Product managers communicate the trade-offs they’re making and the rationale for their decisions so that teams can understand how a decision was reached, even when they don’t agree.
 
-11. **Set clear priorities**
+1. **Set clear priorities**
 
-   Product managers work with the team, stakeholders and users to define priorities, and ensure these are clear.
+Product managers work with the team, stakeholders and users to define priorities, and ensure these are clear.
 
-12. **Measure outcomes**
+1. **Measure outcomes**
 
-   Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
+Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
 
 Hat tip to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f) for inspiring several of these principles.
 
@@ -1757,11 +1755,11 @@ Designers at dxw follow these principles:
 
 10. **Always assume the best intent**
 
-   We are passionate about what we do, but we are a team. When you have difficult conversations or feedback we should always assume that it is coming from a good place.
+We are passionate about what we do, but we are a team. When you have difficult conversations or feedback we should always assume that it is coming from a good place.
 
-11. **Tell stories**
+1. **Tell stories**
 
-   When we talk about our work and why we do what we do, do not just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle, and an end.
+When we talk about our work and why we do what we do, do not just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle, and an end.
 
 ### Development
 
@@ -1835,19 +1833,19 @@ Designers at dxw follow these principles:
 
 10. **Do the smallest amount of good work**
 
-   We aspire to regularly ship good code, and deliver it to the users as often as possible. Delivering impact fast by shipping something real has a big impact on the morale of the team and happiness of our clients and users.
+We aspire to regularly ship good code, and deliver it to the users as often as possible. Delivering impact fast by shipping something real has a big impact on the morale of the team and happiness of our clients and users.
 
-   Solving many problems at once can lead to large pull requests and large commits. This work tends to take a lot longer to understand, code review, amend and then ship safely. Additionally it can make work hard to parallelise as it may block other dependant work from starting. It also tends to introduce more bugs that require more follow-up fixes.
+Solving many problems at once can lead to large pull requests and large commits. This work tends to take a lot longer to understand, code review, amend and then ship safely. Additionally it can make work hard to parallelise as it may block other dependant work from starting. It also tends to introduce more bugs that require more follow-up fixes.
 
-   Where you can, do less and deliver it sooner. Break down work into smaller pieces. Descope anything that isn’t critical for a first version. Do a minimum slice that works for some of your users. Anything to reduce the time between getting started on something and delivering it to users.
+Where you can, do less and deliver it sooner. Break down work into smaller pieces. Descope anything that isn’t critical for a first version. Do a minimum slice that works for some of your users. Anything to reduce the time between getting started on something and delivering it to users.
 
-   Work at a pace that suits the project. Hacky is sometimes fine. If you’re working on prototypes then do only what you need to answer your questions. Sometimes, if you’re working on critical production systems, you’ll have to go slower. When that’s the case, it’s even more important to break down the work into the smallest reasonable chunks, to demonstrate progress, to make reviewing the changes as easy as possible, and to prove your assumptions.
+Work at a pace that suits the project. Hacky is sometimes fine. If you’re working on prototypes then do only what you need to answer your questions. Sometimes, if you’re working on critical production systems, you’ll have to go slower. When that’s the case, it’s even more important to break down the work into the smallest reasonable chunks, to demonstrate progress, to make reviewing the changes as easy as possible, and to prove your assumptions.
 
-11. **Work in the open**
+1. **Work in the open**
 
-   Be open by default. Code should be public unless there’s a good reason otherwise. Changes to open source libraries should be contributed back to the project. Dashboards should be public wherever reasonable.
+Be open by default. Code should be public unless there’s a good reason otherwise. Changes to open source libraries should be contributed back to the project. Dashboards should be public wherever reasonable.
 
-   The way we’re working should also be open to our clients. Work being done should be represented in Trello boards that everyone can see. Communication should be done in public Slack channels rather than direct messages. Openly communicating about our work allows clients to see how we’re doing, and what needs their attention, and gives everyone in the team context for the work being done and decisions being made.
+The way we’re working should also be open to our clients. Work being done should be represented in Trello boards that everyone can see. Communication should be done in public Slack channels rather than direct messages. Openly communicating about our work allows clients to see how we’re doing, and what needs their attention, and gives everyone in the team context for the work being done and decisions being made.
 
 #### Career progression for developers
 
