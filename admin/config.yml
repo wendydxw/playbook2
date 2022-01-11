@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: dxw/playbook2
+  branch: main
+media_folder: "_images"
+publish_mode: editorial_workflow
+show_preview_links: true
+collections:
+  - name: "root"
+    label: "Index"
+    files:
+      - label: "Index page"
+        name: "index"
+        file: "index.markdown"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
