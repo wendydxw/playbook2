@@ -8,6 +8,8 @@ Edit by james that I don't want published
 
 dxw is an employee owned digital agency that works with the public and third sectors.
 
+Edit by Cristina, ditto
+
 Since 2008, we’ve worked in partnership with our clients to improve people’s
 lives by designing, building, running, and improving digital public services. We
 support the public sector teams we work with to build their own digital
