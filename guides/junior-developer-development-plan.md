@@ -1,31 +1,30 @@
 ---
 title: Junior developer development plan
 ---
-
 ## High level goals
 
 Before a junior developer can be promoted, they need to be:
 
-- independently productive
-- billable as a developer
+* independently productive
+* billable as a developer
 
 ## Support
 
 A junior developer has the following direct support:
 
-- a mentor (for development related help and guidance)
-- a helper (for dxw / ways of working related help and guidance)
-- a line manager (for everything else)
+* a mentor (for development related help and guidance)
+* a helper (for dxw / ways of working related help and guidance)
+* a line manager (for everything else)
 
 They are also supported by individual teams and the technology team as a whole.
 
 ## Planned stages
 
 1. Shadowing a project
-1. Creating an internal service
-1. Joining a team (short-term)
-1. Shadowing support
-1. Joining a team (long-term)
+2. Creating an internal service
+3. Joining a team (short-term)
+4. Shadowing support
+5. Joining a team (long-term)
 
 ### Shadowing a project
 
@@ -34,8 +33,8 @@ they should start a 4 to 6 week full-time period shadowing an ongoing project
 each (not the same one), alongside general dxw onboarding. An ideal project
 would:
 
-- be based where they are
-- have 3 or more people in technical roles working on it
+* be based where they are
+* have 3 or more people in technical roles working on it
 
 One person on the project should be assigned as the point of contact, but the
 junior developer should shadow a range of team members, focusing on technical
@@ -51,10 +50,10 @@ or adding features to an existing one. It should involve the following
 additional team members / roles as part-time support (possibly drawn from the
 support rota):
 
-- delivery lead
-- developer
-- operations engineer
-- product owner
+* delivery lead
+* developer
+* operations engineer
+* product owner
 
 This project should be treated in the same way as we do client projects, with a
 Trello board, sprints, stand ups, planning sessions, retrospectives, and show
@@ -62,11 +61,11 @@ and tells.
 
 A good candidate project:
 
-- is one built in the stack the Junior Developers are specializing in
-- has clear, well-defined user needs
-- is brand new or in a clean state with tests for existing features
-- has or needs a browser-based interface
-- can produce something useful for users in 4 weeks by junior developers
+* is one built in the stack the Junior Developers are specializing in
+* has clear, well-defined user needs
+* is brand new or in a clean state with tests for existing features
+* has or needs a browser-based interface
+* can produce something useful for users in 4 weeks by junior developers
 
 Junior developers should be encouraged to pair with each other and with other
 developers in the technology team and to use this project to get familiar with
