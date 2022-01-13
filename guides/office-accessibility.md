@@ -1,7 +1,6 @@
 ---
 title: Office accessibility
 ---
-
 ## Leeds
 
 dxw's headquarter office is at Calls Landing, 36-38 The Calls, Leeds.
