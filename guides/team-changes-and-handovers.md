@@ -1,7 +1,6 @@
 ---
 title: Team changes and handovers
 ---
-
 Projects inevitably undergo team member changes. This can be for a number of
 reasons. If a project has been running for a long time, it is often beneficial
 to introduce some new ideas to the team, and to give incumbent team members a
@@ -11,11 +10,11 @@ those provided by the existing team. It's normal that changes need to happen.
 Whatever the reason, it's critical that we ensure personnel changes and
 handovers:
 
-- maintain the momentum of the team and the project
-- are handled efficiently and with clarity
-- are well understood and agreed to by the individual, the client, and the team
-- ensure an effective transfer of knowledge
-- work well in the context of other ongoing dxw projects
+* maintain the momentum of the team and the project
+* are handled efficiently and with clarity
+* are well understood and agreed to by the individual, the client, and the team
+* ensure an effective transfer of knowledge
+* work well in the context of other ongoing dxw projects
 
 The following guidance is intended to outline the standard steps that can be
 taken by anyone moving to a new project.
