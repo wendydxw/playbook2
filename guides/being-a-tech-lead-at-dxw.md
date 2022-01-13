@@ -1,7 +1,6 @@
 ---
 title: Being a tech lead at dxw
 ---
-
 ## Being a tech lead…
 
 ### …at an agency
@@ -29,9 +28,9 @@ However, they might not be trying to build their own team. Although software is
 never done, we need to try our best to get there by the time we leave. Their
 service needs to be:
 
-- maintainable with minimal effort
-- reliable, as there's no standing team to respond to issues
-- feature-complete enough and with a good enough user experience to meet their
+* maintainable with minimal effort
+* reliable, as there's no standing team to respond to issues
+* feature-complete enough and with a good enough user experience to meet their
   service users' core needs
 
 Getting your software into that state is no mean feat, but knowing that's the
@@ -88,9 +87,9 @@ the internet. We need to reverse that loss of expertise, so that all the folks
 involved in building services are able to make well informed decisions. As a
 tech lead:
 
-- you understand how software is built
-- you understand how to work in an agile way
-- hopefully you understand how much software costs (though we're always happy to
+* you understand how software is built
+* you understand how to work in an agile way
+* hopefully you understand how much software costs (though we're always happy to
   teach you how to think about this)
 
 Share that understanding.
@@ -134,24 +133,24 @@ intersection of technical expertise and people skills.
 
 A tech lead's job is to:
 
-- translate the problems to be solved into pieces of technical work for the team
+* translate the problems to be solved into pieces of technical work for the team
   to pick up
-- advocate for building software that meets user needs
-- make sure the rest of the developers understand the domain and the work, and
+* advocate for building software that meets user needs
+* make sure the rest of the developers understand the domain and the work, and
   aren't blocked from doing it
-- encourage people to pair together on tricky work or to build team knowledge
-- teach other members of the team, directly and by example, encouraging them to
+* encourage people to pair together on tricky work or to build team knowledge
+* teach other members of the team, directly and by example, encouraging them to
   make sure their work is clear and maintainable
-- make sure that the team has the opportunity to learn
-- keep an eye on the development processes of the team, and address issues (e.g.
+* make sure that the team has the opportunity to learn
+* keep an eye on the development processes of the team, and address issues (e.g.
   stories continually taking much longer than expected, people being blocked by
   PRs not being reviewed, lots of time spent chasing down bugs)
-- be a technical representative for the team - taking (necessary) meetings and
+* be a technical representative for the team - taking (necessary) meetings and
   answering questions on behalf of the whole team, allowing them to focus on
   development work
-- be responsible for the team learning from failure and for incident reviews
+* be responsible for the team learning from failure and for incident reviews
   happening when something goes wrong
-- ensure that the development process and repository follow our
+* ensure that the development process and repository follow our
   [RFCs](https://github.com/dxw/tech-team-rfcs)
 
 You will often, but not always, be the most experienced developer on the team.
