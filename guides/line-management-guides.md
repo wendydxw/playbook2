@@ -1,7 +1,6 @@
 ---
 title: Guides for Line Managers
 ---
-
 ## Learning and development for your team members
 
 Part of your work will be to help your team members grow and develop.
@@ -13,10 +12,10 @@ those, help them find opportunities or training to reach them.
 
 As an example these are the areas to cover in learning and development plan:
 
-- Current role
-- Future or changing role
-- Personal development, health and wellbeing
-- Long term career development
+* Current role
+* Future or changing role
+* Personal development, health and wellbeing
+* Long term career development
 
 For each of those you could set a short description of the aims, set priority,
 work out how to achieve it and measure progress.
