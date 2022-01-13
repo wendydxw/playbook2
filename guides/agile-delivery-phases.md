@@ -1,7 +1,6 @@
 ---
 title: Agile delivery phases
 ---
-
 In 2011, the UK government established the Government Digital Service (GDS) to
 implement the ‘Digital by Default’ strategy proposed by Martha Lane Fox. GDS and
 the ‘Digital by Default’ strategy intended to revolutionise the way citizens
@@ -16,18 +15,18 @@ to delivering projects can lead to better digital services.
 
 The core principles of an agile approach are:
 
-- Focus on user needs
-- Deliver iteratively
-- Keep improving how your team works
-- Fail fast and learn quickly
-- Responding to change over following a plan
+* Focus on user needs
+* Deliver iteratively
+* Keep improving how your team works
+* Fail fast and learn quickly
+* Responding to change over following a plan
 
 The Service Manual describes four stages of agile delivery:
 
-- Discovery
-- Alpha
-- Beta
-- Live
+* Discovery
+* Alpha
+* Beta
+* Live
 
 ## Discovery
 
@@ -39,20 +38,20 @@ and the best way to proceed in response.
 
 Activities in discovery include:
 
-- User research
-- Analysis of business needs
-- Market research
-- Journey mapping
-- Cost analysis
+* User research
+* Analysis of business needs
+* Market research
+* Journey mapping
+* Cost analysis
 
 **We are not building software in discovery.** The outputs of a discovery
 include:
 
-- Recommendations on the best way to proceed.
-- A prioritised list of user needs that future development work can be planned
+* Recommendations on the best way to proceed.
+* A prioritised list of user needs that future development work can be planned
   against.
-- Findings about current processes or the existing service.
-- Estimated scale and costs for developing a new service.
+* Findings about current processes or the existing service.
+* Estimated scale and costs for developing a new service.
 
 ## Alpha
 
@@ -65,18 +64,18 @@ how users will interact with the service and what is technically possible.
 
 Activities in alpha include:
 
-- Building test designs or concepts
-- User testing
-- Service design
-- Technical audit and exploration of existing and legacy systems
+* Building test designs or concepts
+* User testing
+* Service design
+* Technical audit and exploration of existing and legacy systems
 
 **We are usually not building software in alpha, even though it might look like
 it.** The outputs of an alpha will include:
 
-- Designs that have been tested and iterated with users.
-- A roadmap and plan for a beta phase.
-- Metrics to measure performance.
-- Research findings in the form of user stories and journey maps.
+* Designs that have been tested and iterated with users.
+* A roadmap and plan for a beta phase.
+* Metrics to measure performance.
+* Research findings in the form of user stories and journey maps.
 
 ## Beta
 
@@ -88,20 +87,20 @@ at scale. It allows us to develop better services that meet user needs.
 
 Activities in beta include:
 
-- Developing working software
-- Testing and iterating
-- Getting the service accredited
-- Measuring performance
-- Developing and testing a security approach
+* Developing working software
+* Testing and iterating
+* Getting the service accredited
+* Measuring performance
+* Developing and testing a security approach
 
-**We _are_ building software and technical infrastructure in beta.** The outputs
+**We *are* building software and technical infrastructure in beta.** The outputs
 of a beta will include:
 
-- Working software that is being used for real transactions
-- Technical infrastructure to support the new service
-- Metrics about the performance of the service
-- A backlog of development tasks for ongoing iterations
-- An approach for security
+* Working software that is being used for real transactions
+* Technical infrastructure to support the new service
+* Metrics about the performance of the service
+* A backlog of development tasks for ongoing iterations
+* An approach for security
 
 ## Live
 
@@ -113,18 +112,18 @@ to change and new research findings in order to keep iterating the service.
 
 Activities in live include:
 
-- Iterating and improving the service
-- Measuring performance
-- User support
-- Testing the service for security
+* Iterating and improving the service
+* Measuring performance
+* User support
+* Testing the service for security
 
 **We are continuously improving and supporting working software.** The outputs
 of live will include:
 
-- Iterations and improvements to the service
-- Metrics on performance
-- A backlog of development tasks for ongoing iterations
-- Security tests
+* Iterations and improvements to the service
+* Metrics on performance
+* A backlog of development tasks for ongoing iterations
+* Security tests
 
 ## Adapting our approach
 
@@ -137,8 +136,8 @@ process to get things done.
 
 We can support our clients by:
 
-- Explaining the content and value of the service manual
-- Helping them understand terminology such as “sprint ceremonies”
-- Coaching them to think about user needs, lead ceremonies, or work openly
-- Helping them to apply the principles of the Service Manual in their own
+* Explaining the content and value of the service manual
+* Helping them understand terminology such as “sprint ceremonies”
+* Coaching them to think about user needs, lead ceremonies, or work openly
+* Helping them to apply the principles of the Service Manual in their own
   context
