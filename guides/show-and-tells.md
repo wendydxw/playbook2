@@ -1,7 +1,6 @@
 ---
 title: Show and tells
 ---
-
 ## What are they?
 
 Show and tells are regular meetings that we run at the end of each sprint to
@@ -15,11 +14,11 @@ A good presentation should tell a story about what you’re delivering - includi
 why it’s important and how well it is going. It is often useful to recap some or
 all of the following:
 
-- What are the project goals?
-- Who is in the team?
-- How we work (agile, in sprints, multidisciplinary)
-- What did we achieve in the last sprint?
-- What has been the goal for this sprint? Why was this important?
+* What are the project goals?
+* Who is in the team?
+* How we work (agile, in sprints, multidisciplinary)
+* What did we achieve in the last sprint?
+* What has been the goal for this sprint? Why was this important?
 
 A common approach is to organise the presentation into themes/sections based on
 the epics you’ve dealt with during the sprint. The main thing is to tell a story
@@ -68,29 +67,29 @@ find its rhythm.
 
 Other preparation to do:
 
-- Send out invites and book a space. Include a link for those dialling in.
-- Get there early and make sure that the space is set up properly. Does the
+* Send out invites and book a space. Include a link for those dialling in.
+* Get there early and make sure that the space is set up properly. Does the
   screen work and can people dial in? If you need them, dxw have microphones and
   cameras that you can use.
-- Make sure you can record the session - we normally record and share them via
+* Make sure you can record the session - we normally record and share them via
   YouTube.
 
 During your presentation make sure that you:
 
-- Introduce the team (get each person who’s speaking to introduce themselves,
+* Introduce the team (get each person who’s speaking to introduce themselves,
   including their role)
-- Show the work (demos, videos) where possible. Seeing an actual thing is more
+* Show the work (demos, videos) where possible. Seeing an actual thing is more
   powerful than a screenshot.
-- Leave time for questions and feedback. Capture things that people raise that
+* Leave time for questions and feedback. Capture things that people raise that
   you want to revisit later on.
-- Avoid jargon and explain technical terms. Your audience might not know much
+* Avoid jargon and explain technical terms. Your audience might not know much
   about the project or about how we work. It’s important to provide your
   audience with context.
-- Avoid just giving a detailed itemised list of everything that’s happened in
+* Avoid just giving a detailed itemised list of everything that’s happened in
   the last 2 weeks.
-- Check in with remote participants to ensure that they can hear and are able to
+* Check in with remote participants to ensure that they can hear and are able to
   follow the discussion.
 
 ## Examples of show and tells
 
-- [Southwark Council discovery final show & tell](https://docs.google.com/presentation/d/1zOX1Kfe_SVzf5fnIANroXPhgUlOd6gEtatg2kJkMVc0/edit#slide=id.g5fe190064c_6_403)
+* [Southwark Council discovery final show & tell](https://docs.google.com/presentation/d/1zOX1Kfe_SVzf5fnIANroXPhgUlOd6gEtatg2kJkMVc0/edit#slide=id.g5fe190064c_6_403)
