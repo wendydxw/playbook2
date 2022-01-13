@@ -1,7 +1,6 @@
 ---
 title: GovPress plugin reviews
 ---
-
 ## Workflow
 
 Requests for plugin inspections will normally be received as a ticket from the
@@ -9,12 +8,12 @@ client. The high-level process is as follows (each step is covered in a section
 below):
 
 1. Check for existing inspections
-1. Add a card to the Trello board
-1. Check the plugin for issues using
+2. Add a card to the Trello board
+3. Check the plugin for issues using
    [pluginscan](https://git.govpress.com/dxw/pluginscan)
-1. Write up an inspection report in security.dxw.com. If the plugin does not
+4. Write up an inspection report in security.dxw.com. If the plugin does not
    appear to be vulnerable, this can be published immediately
-1. If the plugin appears to be vulnerable, spend a short amount of time
+5. If the plugin appears to be vulnerable, spend a short amount of time
    attempting to prove it.
 
 If we aren't able to prove the vulnerability then we should publish the
@@ -31,16 +30,17 @@ Log in to [dxw advisories](https://advisories.dxw.com/) and search for any
 existing inspections for this plugin. Bear in mind that some of these may be
 draft or privately published.
 
-- If we have inspected the latest version of the plugin, no further action is
+* If we have inspected the latest version of the plugin, no further action is
   required.
-- If we have inspected a much older version of the plugin, a new review is
+* If we have inspected a much older version of the plugin, a new review is
   necessary
-- For anything in the middle, the decision to do a new review should take into
+* For anything in the middle, the decision to do a new review should take into
   account:
-  - Previous poor reviews or advisories
-  - The difference in version numbers (bearing in mind that many WordPress
+
+  * Previous poor reviews or advisories
+  * The difference in version numbers (bearing in mind that many WordPress
     plugins don't follow semver)
-  - The date of the last inspection
+  * The date of the last inspection
 
 ## The Trello board
 
