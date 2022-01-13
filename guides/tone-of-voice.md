@@ -1,12 +1,11 @@
 ---
 title: Tone of voice
 ---
-
 This is an overview of how we write and should apply to all the writing we do in
 dxw. It’s an important part of how we present ourselves to the outside world,
 alongside our new dxw brand. You can find the brand guidelines and all the
 assets you need in our brand toolkit in the
-[#dxw-brand](https://dxw.slack.com/archives/C013ZEQ8XEW) Slack channel.
+[\#dxw-brand](https://dxw.slack.com/archives/C013ZEQ8XEW) Slack channel.
 
 Our tone of voice is important because it will have a big influence on how
 someone reading our content will feel.  This isn’t a set of rules as good
@@ -19,10 +18,10 @@ that persuades others to follow our example.
 
 We want our readers to feel that:
 
-- they can trust us
-- we care
-- we have lots of experience
-- we’re open and transparent about our work
+* they can trust us
+* we care
+* we have lots of experience
+* we’re open and transparent about our work
 
 There’s lots of good practice guidance in these
 [Readability Guidelines](https://readabilityguidelines.co.uk/) by Content Design
@@ -35,15 +34,15 @@ your writing. But remember it’s just a guide.
 Our [values](/#values) should guide how we do things, and how we communicate. 
 So our writing should show dxw as:
 
-- helpful - we explain our work openly and clearly
-- positive - with a focus on how we helped others and what we learned
-- reliable - we don’t use superlatives but we show that we do consistently good
+* helpful - we explain our work openly and clearly
+* positive - with a focus on how we helped others and what we learned
+* reliable - we don’t use superlatives but we show that we do consistently good
   work that we’re proud of
-- honest  - we’re open about what we think and our work, including where we got
+* honest  - we’re open about what we think and our work, including where we got
   things wrong
-- curious - and willing to try new things and improve. As well as helping others
+* curious - and willing to try new things and improve. As well as helping others
   to do the same
-- determined - and motivated to tackle difficult things and have high standards
+* determined - and motivated to tackle difficult things and have high standards
 
 We should aim to show our audience the value of our work, not just tell them
 about it. That might mean showing things like screenshots or video footage of
@@ -67,12 +66,12 @@ prototypes” rather than “we built two prototypes”.
 
 Some other suggestions to sound less formal:
 
-- swap “commence” for “start”
-- swap “enable” for “let”
-- swap “ensure” for “make sure”
-- swap “key” for “important/significant/essential”
-- swap “in order to” for “to”
-- swap “utilise” for “use”
+* swap “commence” for “start”
+* swap “enable” for “let”
+* swap “ensure” for “make sure”
+* swap “key” for “important/significant/essential”
+* swap “in order to” for “to”
+* swap “utilise” for “use”
 
 Always think about the most straightforward way of saying something. The
 [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
@@ -116,8 +115,8 @@ like "part-time" and "part time" then leave it out.
 
 A couple more words to avoid:
 
-- platform (unless it’s a train platform)
-- portal (unless it’s to another dimension)
+* platform (unless it’s a train platform)
+* portal (unless it’s to another dimension)
 
 ## Specific names and technical terms
 
@@ -152,6 +151,6 @@ you.
 
 ## References
 
-- [Monzo’s tone of voice guidance](https://monzo.com/tone-of-voice/)
-- [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-- [GOV.UK words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
+* [Monzo’s tone of voice guidance](https://monzo.com/tone-of-voice/)
+* [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+* [GOV.UK words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
