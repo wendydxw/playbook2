@@ -1,7 +1,6 @@
 ---
 title: Wrapping up a project
 ---
-
 ## Why is this important?
 
 We often only work with a client for a short period of time. But they may rely
@@ -20,32 +19,32 @@ What do we want to build on or change for future projects?
 
 ## What do you need to think about?
 
-- What needs to be handed over or maintained? Where are you in the project
+* What needs to be handed over or maintained? Where are you in the project
   life-cycle?
-- Does the team need to create anything as part of the wrap-up?
-- Who is going to be the owner for this work once you leave? Who are you handing
+* Does the team need to create anything as part of the wrap-up?
+* Who is going to be the owner for this work once you leave? Who are you handing
   things over to?
 
 ## Checklist
 
 ### Penultimate sprint (or earlier)
 
-- Revisit the scope and make sure you’ve done everything you needed to
-- If a support contract is in place, make sure you follow the
+* Revisit the scope and make sure you’ve done everything you needed to
+* If a support contract is in place, make sure you follow the
   [guide to getting a project ready for support](/guides/getting-a-project-ready-for-support).
 
 ### Final sprint
 
-- Run a whole project retro
-- Check client has access to any documents or key pieces of information that
+* Run a whole project retro
+* Check client has access to any documents or key pieces of information that
   they might need in the future. Make this tidy to help them find things later
   on. e.g. user research outputs or technical documentation
 
 ### Final week
 
-- Write a note to everyone who worked on the project. Use this to celebrate the
+* Write a note to everyone who worked on the project. Use this to celebrate the
   work that has been done, and to look forward to what happens next.
-- Meet with client to close down the project and make sure they are happy. Are
+* Meet with client to close down the project and make sure they are happy. Are
   there other opportunities that we can support them on?
-- Get feedback from the client.
-- Get email confirmation from the client that the project has wrapped up.
+* Get feedback from the client.
+* Get email confirmation from the client that the project has wrapped up.
