@@ -1,7 +1,6 @@
 ---
 title: Running a discovery kick-off workshop
 ---
-
 This guide explains how we run a kick-off workshop for a discovery project at
 dxw digital.
 
@@ -26,8 +25,7 @@ of the roadmapping questions.
    What is the motivation? What are we trying to do or decide?
 
    And why now? What is the trigger?
-
-1. **Who are the users?**
+2. **Who are the users?**
 
    Are they members of the public, professionals or staff? Are they current or
    potential users?
@@ -37,8 +35,7 @@ of the roadmapping questions.
    most likely to experience barriers?
 
    How will we engage and involve the different people we need to work with?
-
-1. **What organisations and stakeholders are involved?**
+3. **What organisations and stakeholders are involved?**
 
    Are they colleagues from our organisation or other public sector bodies? What
    community, civil society, professional and advocacy groups might be
@@ -46,16 +43,14 @@ of the roadmapping questions.
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
-
-1. **What outcomes will users get?**
+4. **What outcomes will users get?**
 
    What do we know about their intentions? What problems might we solve for
    them?
 
    What’s working that we might build on? What unintended consequences might we
    create?
-
-1. **What outcomes are we looking for?**
+5. **What outcomes are we looking for?**
 
    What are we trying to achieve? What problems are we trying to solve? What
    decisions are we trying to make?
@@ -65,8 +60,7 @@ of the roadmapping questions.
 
    What standards and codes are relevant, for service, accessibility, equality,
    technology?
-
-1. **What do we need to learn or prove?**
+6. **What do we need to learn or prove?**
 
    What questions are we trying to answer? What do we need to know to make good
    decisions? What might we already know?
@@ -75,8 +69,7 @@ of the roadmapping questions.
    understanding might we have?
 
    What might we need to show for our conclusions to be accepted?
-
-1. **What do we need to communicate?**
+7. **What do we need to communicate?**
 
    What meetings, governance and other processes do we need to feed into?
 
@@ -84,15 +77,13 @@ of the roadmapping questions.
 
    How will we share information? How will we make our communications accessible
    and inclusive?
-
-1. **What other work relates to this?**
+8. **What other work relates to this?**
 
    What has been done before, or is being done now?
 
    What can we learn from each other? What should we share? How do we stay
    aligned with that work?
-
-1. **What difficulties might we face?**
+9. **What difficulties might we face?**
 
    How might we be blocked? What rabbit holes could we fall down?
 
@@ -102,17 +93,17 @@ To prepare for the workshop:
 
 1. Write each question on a separate sheet of paper on a wall, or frame on a
    Miro board, or column on a Trello board.
-1. Get the people you need together in a room or on a video call.
+2. Get the people you need together in a room or on a video call.
 
 For each question:
 
 1. Ask the question to get a discussion started.
-1. Write bullet points on the appropriate sheet, or on sticky notes or cards to
+2. Write bullet points on the appropriate sheet, or on sticky notes or cards to
    summarise what people say.
-1. Ask follow up questions to clarify what you hear and to make sure you include
+3. Ask follow up questions to clarify what you hear and to make sure you include
    everyone’s thoughts.
-1. Ask about priority and scope. What’s essential? And what’s out of scope?
-1. You can facilitate this on your own, but the first few times you might want
+4. Ask about priority and scope. What’s essential? And what’s out of scope?
+5. You can facilitate this on your own, but the first few times you might want
    to have a separate moderator and scribe. And it always helps to have another
    colleague in the crowd who is focussed on listening and picking up on
    anything you miss.
@@ -170,8 +161,8 @@ into groups under each question.
 From there you can use the answers to:
 
 1. Set overall discovery and first sprint goals.
-1. Plan the discovery activities – including stakeholder engagement, desk
+2. Plan the discovery activities – including stakeholder engagement, desk
    research, user research, business process analysis and journey mapping.
-1. Build an initial map of the problem space to define a scope for the
+3. Build an initial map of the problem space to define a scope for the
    discovery.
-1. Start thinking about the possible shape of the discovery outputs.
+4. Start thinking about the possible shape of the discovery outputs.
