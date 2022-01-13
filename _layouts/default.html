@@ -12,6 +12,14 @@
     <link rel="stylesheet" href="/assets/main.css">
   </head>
   <body>
+    <header>
+      <a href="/">Playbook</a>
+      {% for post in site.guides %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </header>
     <main>
       <section class="content">
         <article class="markdown-section" id="main">
