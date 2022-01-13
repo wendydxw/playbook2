@@ -1,7 +1,6 @@
 ---
 title: Setting up a new project
 ---
-
 At dxw we frequently start new projects and work with clients we haven’t worked
 with before. Delivery leads at dxw are responsible for setting up projects and
 ensuring all the right things are in place for when the team starts work.
@@ -61,13 +60,13 @@ input.
 Whether you’re talking to the person who led the sales bid, or the client team,
 ask questions.
 
-- What is the brief? What outputs or outcomes are we expected to deliver?
-- Who is the service manager or product owner in the client team?
-- Who are the important stakeholders we need to be aware of?
-- Who from the client team will be working full-time on the project?
-- Are there any deadlines, dependencies or risks that the team need to be aware
+* What is the brief? What outputs or outcomes are we expected to deliver?
+* Who is the service manager or product owner in the client team?
+* Who are the important stakeholders we need to be aware of?
+* Who from the client team will be working full-time on the project?
+* Are there any deadlines, dependencies or risks that the team need to be aware
   of?
-- What skills and capabilities do the client team have? Are they used to working
+* What skills and capabilities do the client team have? Are they used to working
   in agile teams? Have they delivered a digital service before? Are they
   familiar with user research?
 
@@ -77,35 +76,36 @@ Before the project starts there’s also a number of tasks, mostly administrativ
 ones, that need to be done. Below is a checklist of things that need to be in
 place for a typical project.
 
-- Send out calendar invitations for regular ceremonies:
-  - Standups - daily, 10-15 minutes between 10:00-11:00.
-  - Sprint planning meetings - fortnightly, for anything between 1-3 hours,
+* Send out calendar invitations for regular ceremonies:
+
+  * Standups - daily, 10-15 minutes between 10:00-11:00.
+  * Sprint planning meetings - fortnightly, for anything between 1-3 hours,
     usually on the first day of a sprint (a Wednesday).
-  - Retrospectives - fortnightly, usually held at the end of a sprint or before
+  * Retrospectives - fortnightly, usually held at the end of a sprint or before
     planning.
-  - Show and tells - fortnightly, at the end of a sprint for most projects. The
+  * Show and tells - fortnightly, at the end of a sprint for most projects. The
     client can help you identify a suitable time and place (we recommend keeping
     it to a regular time to maximise attendance).
-- Create a Slack channel and add dxw and client team members. Clients and
+* Create a Slack channel and add dxw and client team members. Clients and
   contractors should be set up as single-channel guests.
-- Create a Trello board for the project. Use the standard dxw columns or make up
+* Create a Trello board for the project. Use the standard dxw columns or make up
   your own, depending on the needs of the project and how the team want to work.
-- Create a Google Drive folder, under ‘Client work’ for the project. Use this to
+* Create a Google Drive folder, under ‘Client work’ for the project. Use this to
   store any documents, files, week notes and anything else that the team might
   need access to. Make sure everyone in the team knows where to find it, and
   give clients and contractors access to individual documents or sub-folders as
   required.
-- Set up a video-call for standups so that anyone working remotely or from
+* Set up a video-call for standups so that anyone working remotely or from
   another location can join. We like to use appear.in and talky.io.
-- Create a week notes document, using the template.
-- Organise a kick-off meeting with the client, either a few days before the
+* Create a week notes document, using the template.
+* Organise a kick-off meeting with the client, either a few days before the
   first sprint or on the first day. The whole team should attend this.
-- Check that commercial tasks have been done. It’s worth checking there’s a
+* Check that commercial tasks have been done. It’s worth checking there’s a
   signed order summary (this should be shared with you ahead of time) and this
   matches the schedule in 10,000ft. Check invoices have been created in Xero and
   you know where to find them. Also check 10,000ft early so you’re aware of any
   upcoming holiday being taken by the team.
-- Create a spreadsheet to track days worked against the order summary. This will
+* Create a spreadsheet to track days worked against the order summary. This will
   show you how money is being spent against the forecasted budget, and help you
   in any conversations with the client about team changes, extending the project
   or issues with budget.
@@ -115,11 +115,11 @@ place for a typical project.
 While the project is being set up, and before it starts, a kick off should
 happen. This ensures:
 
-- The team get introduced to each other & discuss and agree how they want to
+* The team get introduced to each other & discuss and agree how they want to
   work
-- The team and client know and understand what the work is all about
-- We realise our priorities so we have an initial plan
-- We discuss ways of working
+* The team and client know and understand what the work is all about
+* We realise our priorities so we have an initial plan
+* We discuss ways of working
 
 You should have everyone working on the project in this meeting (even if they’re
 part-time).
@@ -133,14 +133,14 @@ think and prepare their own intros tailored to this project.
 It shouldn’t just be about people’s names, but roles and what each person will
 be doing on the project. Some further ideas:
 
-- Highlight people’s experience and expertise, particularly if it’s going to
+* Highlight people’s experience and expertise, particularly if it’s going to
   benefit the project or subject matter you’re working on
-- It is also important to say if any of the team members have worked on a
+* It is also important to say if any of the team members have worked on a
   previous phase of the same project/product/service
-- Make sure to point out who is full time/part time or if there is any different
+* Make sure to point out who is full time/part time or if there is any different
   working pattern (such as compressed hours, any days they are not working,
   etc…)
-- Prep the client about what the day will look like and set expectations. For
+* Prep the client about what the day will look like and set expectations. For
   example who they should bring and what the agenda should be.
 
 ### Get to a shared understanding of what the work and priorities are
@@ -151,8 +151,8 @@ there are areas that are not very clear to us, or to them. You can structure a
 kick-off in the way that works best for you, but some frameworks that will help
 you get the outcomes you need are below:
 
-- [Running a discovery kick-off workshop](/guides/running-a-discovery-kick-off-workshop)
-- [Running a roadmapping workshop](/guides/running-a-roadmapping-workshop)
+* [Running a discovery kick-off workshop](/guides/running-a-discovery-kick-off-workshop)
+* [Running a roadmapping workshop](/guides/running-a-roadmapping-workshop)
 
 Aim to reach a shared understanding of what’s desired and what’s possible. This
 can be a Sprint goal, a high level vision, or going through the requirements and
@@ -160,9 +160,9 @@ getting clarity on each of these points. The scope is flexible, and it varies
 from project to project, but the main outcome is to make sure the team and the
 client understand what will be done. You should:
 
-- Set the client’s expectations from the beginning, and help them understand
+* Set the client’s expectations from the beginning, and help them understand
   that there are trade-offs in every decision we take
-- Make sure the commercial paperwork is aligned to this discussion, and if there
+* Make sure the commercial paperwork is aligned to this discussion, and if there
   are gaps or things that have been missed, bring that up, and go back to the
   commercial team to inform of any changes. It timing works out, this type of
   discussion is suitable for the delivery checkpoint forum that happens weekly
@@ -173,17 +173,17 @@ client understand what will be done. You should:
 Give an overview of how dxw works. Don’t assume that everyone in the client team
 has read the original proposal or visited the dxw website. Explain how we work:
 
-- agile mindset
-- culture
-- our approach to delivery
-- GDS Service Manual
-- sprint ceremonies
-- writing stories
-- story workflow (this is different from team to team)
-- the code review process (again might be different in each team, and it’s ok
+* agile mindset
+* culture
+* our approach to delivery
+* GDS Service Manual
+* sprint ceremonies
+* writing stories
+* story workflow (this is different from team to team)
+* the code review process (again might be different in each team, and it’s ok
   for the team to define that in the first Sprint)
-- dxw days, that is 9 days in a 10 day sprint
-- invoicing and finances, we invoice the first day after the end of each sprint,
+* dxw days, that is 9 days in a 10 day sprint
+* invoicing and finances, we invoice the first day after the end of each sprint,
   based on the number of days each specialist in the team worked. We might also
   add travel costs, or research incentives, and other admin costs as per the
   commercial agreement we have with the client
