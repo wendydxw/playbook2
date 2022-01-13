@@ -1,3 +1,9 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values

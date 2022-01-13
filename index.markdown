@@ -1,5 +1,4 @@
 ---
-layout: default
 title: dxw's Playbook
 ---
 ## Who we are
