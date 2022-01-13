@@ -1,7 +1,6 @@
 ---
 title: Getting a project ready for support
 ---
-
 For some projects, once the primary development phase has wrapped up dxw will
 continue to offer support (subject to a support contract). Since we rotate
 support staff, things need to be in place to let them effectively respond to
@@ -12,27 +11,29 @@ issues.
 Support developers may not have context on the project, and rely on the
 documentation to effectively solve problems. For most projects:
 
-- The `README` file should cover how to download a project, install any
+* The `README` file should cover how to download a project, install any
   dependencies, and start a working development instance (if necessary including
   seed data). We recommend using the
   [Scripts To Rule Them All](https://github.com/dxw/scripts-to-rule-them-all)
   pattern to automate this as much as possible.
-- As much documentation as possible should be kept in one place, ideally in the
+* As much documentation as possible should be kept in one place, ideally in the
   repository alongside the code. Remember to check that documentation doesn't
   contain any secrets.
-- There should be a single 'front line support' runbook which covers common
+* There should be a single 'front line support' runbook which covers common
   support tasks (if necessary linking to other documentation) in as much of a
   step by step process as possible. This may be stand-alone in the repository
   alongside the code (preferred), or in the operations documentation repository.
-  - Add the link to this document to the Project Knowledgebase **support
+
+  * Add the link to this document to the Project Knowledgebase **support
     runbook** field (see below).
-- If there is a specific process for on-boarding developers before they can
+* If there is a specific process for on-boarding developers before they can
   support the service (eg creating user accounts, elevating permissions) then
   this should also be kept in a single step by step document.
-  - Add a link to this process to the
+
+  * Add a link to this process to the
     [set up person for support](https://trello.com/c/EblCSAdY/57-set-up-person-for-support)
     checklist template, so that new support developers will follow the process.
-  - Make sure that existing support developers know there is a new on-boarding
+  * Make sure that existing support developers know there is a new on-boarding
     checklist to follow.
 
 ## Add the project to Project Knowledgebase
