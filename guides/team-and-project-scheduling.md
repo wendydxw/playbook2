@@ -1,7 +1,6 @@
 ---
 title: Team and project scheduling
 ---
-
 **If anything in this guide is unclear, put a message in the #scheduling slack
 channel - most people in this channel have a good level of knowledge of 10kft
 and should be able to offer clarification. We can then make an update to this
@@ -34,16 +33,16 @@ strategy and technical operations. The scheduling team meet weekly to talk
 through team availability and the gaps we have in our schedule. Actions and
 decisions are noted in the #scheduling slack channel.
 
-_There are many aspects to scheduling, these predominantly are:_
+*There are many aspects to scheduling, these predominantly are:*
 
-1.  future work we could win
-1.  current work being extended or amended
-1.  team shape changing
+1. future work we could win
+2. current work being extended or amended
+3. team shape changing
 
 Before the weekly scheduling meeting, 10kft must reflect:
 
-- project needs: changes to existing projects
-- sales needs: confirmed and potential new work
+* project needs: changes to existing projects
+* sales needs: confirmed and potential new work
 
 Before each scheduling meeting, the project lead or sales lead ensures 10kft is
 updated. We use placeholders to reflect needs.
@@ -71,22 +70,22 @@ latest information.
 
 The **sales lead** should:
 
-- describe and explain new opportunities in the #scheduling slack channel.
+* describe and explain new opportunities in the #scheduling slack channel.
   Including the nature of work, proposed team shape and start dates, along with
   any scheduling challenges
-- add tentative placeholders to 10kft (go to the
+* add tentative placeholders to 10kft (go to the
   [adding a placeholder](#adding-a-placeholder) section of this guide for
   details on how to do this)
-- leave notes in the #scheduling channel with the latest information
+* leave notes in the #scheduling channel with the latest information
 
 Once a sales opportunity is realised, this is handed over to a “project lead”,
 assigned to that work.
 
 The **project lead** should:
 
-- ensure all tentative placeholders are accurate in 10kft
-- speak with the team assigned to the work to discuss next steps
-- review the project set up in 10kft and amend where needed
+* ensure all tentative placeholders are accurate in 10kft
+* speak with the team assigned to the work to discuss next steps
+* review the project set up in 10kft and amend where needed
 
 ### Reporting our time
 
@@ -102,12 +101,12 @@ we’d be and if this matches up to our projections.
 
 Some reasons why this is helpful for us as a business are:
 
-- it helps us understand if we need to schedule more work or if we’re over
+* it helps us understand if we need to schedule more work or if we’re over
   capacity (this means we can better predict if we need to grow the team or take
   a pause on recruitment)
-- we can see who is free for dxw days, so that we can use this information to
+* we can see who is free for dxw days, so that we can use this information to
   plan for internal projects
-- similarly, we can use this information in compiling reports to reflect the
+* similarly, we can use this information in compiling reports to reflect the
   value of dxw days
 
 ## Intended Audience - a Scheduler
@@ -235,23 +234,23 @@ multiple disciplines working under one of three functions at dxw digital.
 Team members who work within the **delivery function**, sit within one of the
 following disciplines:
 
-- delivery lead
-- product manager
-- developer
-- technical architect
-- designer
-- researcher
+* delivery lead
+* product manager
+* developer
+* technical architect
+* designer
+* researcher
 
 Team members who work within the **strategy function**, sit within one of the
 following disciplines:
 
-- transformation lead
-- service designer
+* transformation lead
+* service designer
 
 Team members who work within the **technical operations function**, sit within
 the following discipline:
 
-- operations engineer
+* operations engineer
 
 ### Setting up an account
 
@@ -267,9 +266,9 @@ Select ‘Add Licensed User’. To see the full account set up, click ‘Show mo
 This view is needed to be able to allocate the correct settings for team
 members.
 
-Note: We add contractors who are employed by dxw as ‘licensed users’. _We don’t
+Note: We add contractors who are employed by dxw as ‘licensed users’. *We don’t
 provide contractors with access to sign in, but the account must be set up as a
-licensed account, so that we can track their time_.
+licensed account, so that we can track their time*.
 
 A page similar to this image will be visible. This section is a walk through of
 how to set up a team member correctly, based on their role, permission level and
@@ -281,9 +280,9 @@ availability.
 
 The following information needs to be set:
 
-- first and last name
-- a dxw email address
-- home office location (this will either be Hoxton or Leeds - if the team member
+* first and last name
+* a dxw email address
+* home office location (this will either be Hoxton or Leeds - if the team member
   is a remote worker, they should always have at least one home office location)
 
 We ignore the input fields for phone numbers and employee codes - this
@@ -298,12 +297,12 @@ If we've worked with the contractor before, they may already have an account in
 10kft. Check the archived accounts list to re-activate the account. If not, the
 following information needs to be set:
 
-- first and last name
-- home office location (this will either be Hoxton or Leeds - if the team member
+* first and last name
+* home office location (this will either be Hoxton or Leeds - if the team member
   is a remote worker, they should always have at least one home office location)
-- permission level, set as 'contractor'
-- person tag, added as 'contractor'
-- target utilisation (check with the project lead they will be working with when
+* permission level, set as 'contractor'
+* person tag, added as 'contractor'
+* target utilisation (check with the project lead they will be working with when
   adding this in)
 
 We ignore the input fields for email address, phone number and employee codes,
@@ -389,8 +388,8 @@ updated on a regular basis. This is due to how 10kft is set up.
 
 **Setting a team member’s availability**
 
-- add the users ‘First day of work’
-- under the button that asks to ‘add part-time availability’, there will be an
+* add the users ‘First day of work’
+* under the button that asks to ‘add part-time availability’, there will be an
   option to enter in a team member’s availability
 
 Typically, this will need to be set by adding 7 into the boxes across Monday -
@@ -430,8 +429,8 @@ Finally, add tags for team members. These should describe the team member in a
 way that complements their role. Team members should always have two tags
 assigned to them. These are either:
 
-- ‘Permanent’ or ‘Contractor’
-- ‘Delivery’, ‘Strategy’ or ‘Technical Operations’
+* ‘Permanent’ or ‘Contractor’
+* ‘Delivery’, ‘Strategy’ or ‘Technical Operations’
 
 If the team member is an employee that doesn’t sit within the three business
 functions (delivery, strategy and technical operations), assign the tags
