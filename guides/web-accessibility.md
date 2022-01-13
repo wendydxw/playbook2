@@ -1,7 +1,6 @@
 ---
 title: Web accessibility
 ---
-
 ## Why web accessibility matters
 
 Everyone experiences disability in some form throughout their life including
@@ -20,12 +19,12 @@ Test early and often in the design and prototyping stages to identify problems
 because they are often harder and more time-consuming to resolve later on in the
 development phase.
 
-- Review the GOV.UK Service Manual
+* Review the GOV.UK Service Manual
   [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   to check your designs meets all the criteria to level AA or above.
-- Use a tool such as [Who can use](https://whocanuse.com/) to check all colour
+* Use a tool such as [Who can use](https://whocanuse.com/) to check all colour
   combinations meet WCAG grading of level AA or above.
-- Refer to the [GOV.UK Design System](https://design-system.service.gov.uk/) for
+* Refer to the [GOV.UK Design System](https://design-system.service.gov.uk/) for
   common components and patterns which have been extensively tested by users
   with different disabilities.
 
@@ -35,13 +34,13 @@ Whether working on an existing codebase or starting an entirely new project,
 everything should be accessible to WCAG 2.1 level AA. This includes any plugins
 authored outside dxw.
 
-- The GOV.UK Service Manual
+* The GOV.UK Service Manual
   [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   is also a helpful starting point to assess parts of your development work
   against for accessibility.
-- Test existing code and plugins for accessibility **before** and **after**
+* Test existing code and plugins for accessibility **before** and **after**
   working on a fix or feature.
-- When adding details for a pull request flag anything that might need
+* When adding details for a pull request flag anything that might need
   accessibility testing such as output from HTML, CSS and JavaScript.
 
 ## Accessibility testing
@@ -59,16 +58,16 @@ For automated testing you should be able to identify around 50% of code-based
 accessibility issues. You must also follow up these with manual tests. A couple
 of extensions you can install on your browser for automated testing include:
 
-- The [WAVE extension](https://wave.webaim.org/extension/) adds on overlay to
+* The [WAVE extension](https://wave.webaim.org/extension/) adds on overlay to
   the webpage which outlines all elements of the page such as landmarks,
   headings, anchors and aria properties. Alongside this WAVE highlights any
   problems categorised as either warnings or errors. This can include issues
   such as poor contrast, empty elements and incorrect use of markup.
-- [axe DevTools](https://www.deque.com/axe/browser-extensions/) is an extension
+* [axe DevTools](https://www.deque.com/axe/browser-extensions/) is an extension
   for Chrome, Firefox and Edge which you can use to test for accessibility
   defects. This identifies defects in relation to their user impact level as
   well as any corresponding WCAG guidelines.
-- [axe cli](https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli)
+* [axe cli](https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli)
   is a command line interface for axe to run quick accessibility tests.
 
 ### Manual testing
@@ -83,37 +82,37 @@ There are a couple of helpful tools available for performing manual testing.
 These provide visual helpers to help your assessment and keep a track of all
 completed or outstanding tests.
 
-- [Microsoft Accessibility Insights](https://accessibilityinsights.io/)
-- [axe DevTools Pro](https://www.deque.com/axe/devtools/) (subscription
+* [Microsoft Accessibility Insights](https://accessibilityinsights.io/)
+* [axe DevTools Pro](https://www.deque.com/axe/devtools/) (subscription
   required)
 
 Prepare to spend anything upwards of one day, to a week, to perform manual
 testing comprehensively depending on the size of your project or task. Try to
 test with real devices, as opposed to emulators, where possible including:
 
-- Phone or tablet running iOS
-- Phone or tablet running Android
-- Laptop or desktop machine running Windows + NVDA software installed
-- Laptop or desktop machine running macOS
+* Phone or tablet running iOS
+* Phone or tablet running Android
+* Laptop or desktop machine running Windows + NVDA software installed
+* Laptop or desktop machine running macOS
 
 Browser/screen reader combinations to include in your testing procedure:
 
 #### Mac
 
-- VoiceOver/Safari
+* VoiceOver/Safari
 
 #### Windows
 
-- NVDA/Firefox
-- Narrator/Edge
+* NVDA/Firefox
+* Narrator/Edge
 
 #### iOS
 
-- VoiceOver/Safari
+* VoiceOver/Safari
 
 #### Android
 
-- Talkback/Chrome
+* Talkback/Chrome
 
 Each screen reader comes with a variety of different keyboard shortcut commands
 and dialogues to help navigate and interact with a website.
@@ -154,7 +153,7 @@ accessibility in decision-making at all stages.
 
 ## Further information
 
-- [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [Making online public services accessible](https://accessibility.campaign.gov.uk/)
-- [Authoring Tool Accessibility Guidelines overview](https://www.w3.org/WAI/standards-guidelines/atag/)
-- [GDS Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/)
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+* [Making online public services accessible](https://accessibility.campaign.gov.uk/)
+* [Authoring Tool Accessibility Guidelines overview](https://www.w3.org/WAI/standards-guidelines/atag/)
+* [GDS Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/)
