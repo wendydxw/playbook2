@@ -1,7 +1,6 @@
 ---
 title: Running a roadmapping workshop
 ---
-
 For an alpha or beta, or for a significant update to a live service, we run an
 initial roadmapping workshop during inception.
 
@@ -22,20 +21,20 @@ and outlines how we’ll achieve our objectives.
 
 Roadmaps should:
 
-- Set clear, agreed goals
-- Be related to outcomes, rather than specific outputs and dates or releases
-- Be adaptable and respond to change
-- Cover the complete service we are providing, not just the digital parts we are
+* Set clear, agreed goals
+* Be related to outcomes, rather than specific outputs and dates or releases
+* Be adaptable and respond to change
+* Cover the complete service we are providing, not just the digital parts we are
   building
 
 We create roadmaps in workshops where we aim to:
 
-- Understand and make sure we have agreement on the goals of the project
-- Figure out what we need to have to be successful (capabilities), and how that
+* Understand and make sure we have agreement on the goals of the project
+* Figure out what we need to have to be successful (capabilities), and how that
   relates to the goals and desired outcomes
-- Identify risks and dependencies
-- Understand the stakeholder landscape
-- Set priorities, particularly for the things we need to do first
+* Identify risks and dependencies
+* Understand the stakeholder landscape
+* Set priorities, particularly for the things we need to do first
 
 Before the workshop you need to have clear high level goals for the work, and
 the commitment of key stakeholders to attend. If you don’t have those, focus on
@@ -57,16 +56,14 @@ the roadmap are just as, if not more, important than the document itself.
 
    What standards and codes must we meet, for service, accessibility, equality,
    technology?
-
-1. What are we assuming?
+2. What are we assuming?
 
    What ideas and beliefs are our goals and outcomes based on? How confident are
    we that they are true? That they won’t change?
 
    What biases and gaps in understanding might we have? What unintended
    consequences might there be?
-
-1. What are we trying to learn or prove?
+3. What are we trying to learn or prove?
 
    What do we need to know to make good decisions? What might the organisation
    already know?
@@ -86,8 +83,7 @@ the roadmap are just as, if not more, important than the document itself.
    most likely to experience barriers?
 
    How will we engage and involve the different people we need to work with?
-
-1. What are we operating?
+2. What are we operating?
 
    What digital and physical components will the service be made up of? What
    people will be involved in operating the service?
@@ -96,8 +92,7 @@ the roadmap are just as, if not more, important than the document itself.
    channels might different groups need and use?
 
    How will we roll out the service to all the people who might need to use it?
-
-1. What capabilities do we need?
+3. What capabilities do we need?
 
    What capabilities will we need to build and operate the service?
 
@@ -114,8 +109,7 @@ the roadmap are just as, if not more, important than the document itself.
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
-
-1. What are our dependencies?
+2. What are our dependencies?
 
    What other work or organisations will the project and service depend on? What
    other work might be an enabler or blocker for us?
@@ -123,8 +117,7 @@ the roadmap are just as, if not more, important than the document itself.
    Who is depending on us?
 
    How will we manage those dependencies?
-
-1. What do we need to communicate?
+3. What do we need to communicate?
 
    What meetings, governance and other processes do we need to feed into?
 
@@ -137,10 +130,10 @@ the roadmap are just as, if not more, important than the document itself.
 
 By default, we prioritise the roadmap into:
 
-- **Now**, the first outcomes we’ll work towards and all the things we’ll need
+* **Now**, the first outcomes we’ll work towards and all the things we’ll need
   to do for those
-- **Next**, the outcomes we’ll work on once we’ve completed the first things
-- **Later**, everything else
+* **Next**, the outcomes we’ll work on once we’ve completed the first things
+* **Later**, everything else
 
 To help ground the discussion, you can give a timeframe to the Now and Next.
 This might be quarters for a bigger piece of work, or single sprints for a
@@ -186,21 +179,21 @@ technical architect.
 
 Before the workshop:
 
-- Create a grid with a row for each question, and columns for Now, Next and
+* Create a grid with a row for each question, and columns for Now, Next and
   Later. This can be on a wall, or in an online tool like
   [Miro](https://miro.com/).
 
 During the workshop:
 
-- Start with the goals. Work to make them clear, then break them down into more
+* Start with the goals. Work to make them clear, then break them down into more
   specific outcomes with potential measures Work through the rest of the
   questions, one by one
-- For each question, ask participants to write items on paper or digital sticky
+* For each question, ask participants to write items on paper or digital sticky
   notes
-- Ask participants to talk about their items, to clarify and improve any unclear
+* Ask participants to talk about their items, to clarify and improve any unclear
   items, and to make sure you include everyone’s thoughts
-- Group or stack similar items
-- Discuss priorities as you go. Place the items in the Now, Next and Later
+* Group or stack similar items
+* Discuss priorities as you go. Place the items in the Now, Next and Later
   columns
 
 ## Using the roadmap
@@ -209,9 +202,9 @@ Turn the outputs from the workshop into a roadmap document. It can live on a
 wall, in a tool like Miro, or both. We usually arrange the content of the
 roadmap into swimlanes. These can be:
 
-- The roadmapping questions
-- Common themes or workstreams within the project
-- Specific goals or outcomes
+* The roadmapping questions
+* Common themes or workstreams within the project
+* Specific goals or outcomes
 
 Use the roadmap to start conversations with stakeholders about activities and
 priorities, and to gain consensus across teams and organisations.
@@ -220,4 +213,4 @@ Someone must own and maintain the roadmap. Most often this will be a Product
 Manager or Product Owner in the client organisation, although we will own the
 roadmap if we have to. The owner works with the team and stakeholders to
 regularly review and update the roadmap. Without clear ownership the roadmap
-will quickly drop out of use and lose it’s value.
+will quickly drop out of use and lose its value.
