@@ -1,7 +1,6 @@
 ---
 title: Managing the Playbook
 ---
-
 This is the content strategy for dxw Playbook.
 
 It describes the purpose and users of the Playbook, the kinds of material it
@@ -73,21 +72,21 @@ profession.
 
 The owner is responsible for making sure that their parts of the Playbook:
 
-- continue to reflect our current ways of working and policies
-- are findable, readable, understandable and actionable by its intended audience
+* continue to reflect our current ways of working and policies
+* are findable, readable, understandable and actionable by its intended audience
   and users
 
 The owners of each section are:
 
-- David Mann - [Who we are](/#who-we-are)
-- Adam Maddison - [The work we do > Sales](/#sales)
-- Clare Young - [The work we do > Building services](/#building-services)
-- Dominic Baggott -
+* David Mann - [Who we are](/#who-we-are)
+* Adam Maddison - [The work we do > Sales](/#sales)
+* Clare Young - [The work we do > Building services](/#building-services)
+* Dominic Baggott -
   [The work we do > Hosting and supporting services](/#hosting-and-supporting-services)
-- Wendy Coello -
+* Wendy Coello -
   [The work we do > Sharing our expertise](/#sharing-our-expertise)
-- Poss Apostolou - [Working here](/#working-here)
-- Coca Rivas - [Our professions](/#our-professions)
+* Poss Apostolou - [Working here](/#working-here)
+* Coca Rivas - [Our professions](/#our-professions)
 
 ### Workflow
 
@@ -97,11 +96,11 @@ relevant colleagues and follow the
 
 For more significant additions and changes to the Playbook, the steps are:
 
-- the owner of the section and the author agree the need for the update
-- the author drafts and reviews the update with appropriate colleagues
-- the author follows the
+* the owner of the section and the author agree the need for the update
+* the author drafts and reviews the update with appropriate colleagues
+* the author follows the
   [guide to contributing to the Playbook](/guides/contributing)
-- the owner and colleagues review and approve the changes
+* the owner and colleagues review and approve the changes
 
 ### Review
 
@@ -113,7 +112,7 @@ last updated and last reviewed dates.
 
 ### Coordination
 
-We use the [#dxw-playbook](https://dxw.slack.com/archives/CK5HUK6SE) Slack
+We use the [\#dxw-playbook](https://dxw.slack.com/archives/CK5HUK6SE) Slack
 channel to collaborate on the Playbook.
 
 ## Playbook style
