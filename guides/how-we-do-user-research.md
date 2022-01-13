@@ -1,7 +1,6 @@
 ---
 title: How we do user research
 ---
-
 ## Introduction
 
 This guide explains how we do user research at dxw.
@@ -31,8 +30,7 @@ These are the things that user researchers usually do on projects.
 
    This helps dxw to win good work that delivers valuable results for our
    clients, for users and for ourselves.
-
-1. **Help setup the project and team**
+2. **Help setup the project and team**
 
    Researchers get involved with project inception and planning. We review
    existing evidence. And we create research plans that show what we’ll do, why
@@ -43,8 +41,7 @@ These are the things that user researchers usually do on projects.
    and to produce the best results with the people, time and resources we have.
 
    [How we create and use research plans](#how-we-create-and-use-research-plans)
-
-1. **Recruit people for research**
+3. **Recruit people for research**
 
    Researchers recruit appropriate participants for research activities. Finding
    the right participants at the right time is always challenging, so we start
@@ -60,8 +57,7 @@ These are the things that user researchers usually do on projects.
    [When and how we give incentives to research participants](#when-and-how-we-give-incentives-to-research-participants)
 
    [How we protect participant privacy](#how-we-protect-participant-privacy)
-
-1. **Plan and do research activities**
+4. **Plan and do research activities**
 
    This is the most obvious and visible part of our work. We choose research
    activities that provide strong evidence and reliable answers, for the least
@@ -79,8 +75,7 @@ These are the things that user researchers usually do on projects.
    [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
 
    [How we take notes and record research sessions](#how-we-take-notes-and-record-research-sessions)
-
-1. **Analyse research and produce findings**
+5. **Analyse research and produce findings**
 
    Researchers carefully analyse the different kinds of data we collect. We
    analyse data in batches and record our findings from sprint to sprint. And we
@@ -88,8 +83,7 @@ These are the things that user researchers usually do on projects.
    clear and relevant.
 
    This helps teams understand, believe in and act quickly on what they learn.
-
-1. **Help teams make good decisions**
+6. **Help teams make good decisions**
 
    Researchers produce findings and other recommendations that help teams make
    good decisions about what to do next and how to approach it. We get actively
@@ -98,8 +92,7 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to create great services that work well for users, and to
    strike a balance between short-term wins and more complex, long term changes.
-
-1. **Create and share outputs**
+7. **Create and share outputs**
 
    Researchers create and share formal outputs like plans, presentations,
    reports and diagrams. These record and communicate the important things we
@@ -111,8 +104,7 @@ These are the things that user researchers usually do on projects.
    learned both during the project and long after we’ve gone.
 
    [How we share research activities and findings](#how-we-share-research-activities-and-findings)
-
-1. **Take care of research data**
+8. **Take care of research data**
 
    Researchers know it’s important to manage research data carefully. We follow
    our [privacy policy](https://www.dxw.com/privacy-statement/) and
@@ -135,29 +127,29 @@ research plan, discussion guide or other research document.
 
 So we give our documents consistent file names like:
 
-- YYYY MM DD - TYPE - CLIENT - PROJECT - RESEARCH ACTIVITY (if needed for
+* YYYY MM DD - TYPE - CLIENT - PROJECT - RESEARCH ACTIVITY (if needed for
   clarity)
 
 For example:
 
-- 2019 10 01 - Research plan - Southwark - Affordable homes monitoring alpha
+* 2019 10 01 - Research plan - Southwark - Affordable homes monitoring alpha
 
 And a consistent front cover with:
 
-- Client and dxw logos
-- Client and project names
-- Document type
-- Date
-- Main contact (who wrote it)
+* Client and dxw logos
+* Client and project names
+* Document type
+* Date
+* Main contact (who wrote it)
 
 For example:
 
-- Southwark Council
-- Affordable homes monitoring alpha
-- User research plan
-- (Draft)
-- 1 October 2019
-- John Waterworth
+* Southwark Council
+* Affordable homes monitoring alpha
+* User research plan
+* (Draft)
+* 1 October 2019
+* John Waterworth
 
 ## How we create and use research plans
 
@@ -215,13 +207,13 @@ interviews, visits, workshops and usability tests.
 
 They help us to:
 
-- identify the purpose of the research activity and what we want to get from it
-- review planned activities with team members and stakeholders so we stay
+* identify the purpose of the research activity and what we want to get from it
+* review planned activities with team members and stakeholders so we stay
   aligned with project goals
-- stay on track during research sessions
-- make sure different researchers cover the same topics so participants have a
+* stay on track during research sessions
+* make sure different researchers cover the same topics so participants have a
   consistent experience
-- keep a record of what we did in each research activity
+* keep a record of what we did in each research activity
 
 ### The parts of a discussion guide
 
@@ -247,25 +239,25 @@ get interrupted or distracted.
 
 In your welcome you should:
 
-- **Say thank you** - Start off by letting the participant know you appreciate
+* **Say thank you** - Start off by letting the participant know you appreciate
   them offering their time (incentivised or not)
-- **Introduce yourself** - Let them know your name, role, company and who you
+* **Introduce yourself** - Let them know your name, role, company and who you
   are working for
-- **State your relationship to the client** - We are **independent
+* **State your relationship to the client** - We are **independent
   researchers**, working on behalf of a client
-- **Summarise the research purpose** - Explain what you’re trying to find out,
+* **Summarise the research purpose** - Explain what you’re trying to find out,
   eg We’re interested in how you recruit teachers for your school
-- **Remind them it is voluntary** - They can choose to stop at any time
-- **Reassure tham that there are no right or wrong answers** - We’re interested
+* **Remind them it is voluntary** - They can choose to stop at any time
+* **Reassure tham that there are no right or wrong answers** - We’re interested
   in how the participant thinks and what influences that
-- **Ask them to be honest** - As researchers we won’t be offended by any
+* **Ask them to be honest** - As researchers we won’t be offended by any
   comments, we just want to find out what people really think about a service
   and how it might be improved
-- **Describe how the session will go** - Let the participant know who is taking
+* **Describe how the session will go** - Let the participant know who is taking
   notes or observing, how you are recording the session, how long the session
   will take, and what you’ll be doing in that time, so the participant knows
   what to expect
-- **Check consent and non-disclosure** - Has this been done? Do they have any
+* **Check consent and non-disclosure** - Has this been done? Do they have any
   questions?
 
 #### Topics, tasks and activities
@@ -275,15 +267,16 @@ or workshop activities.
 
 For each one write out:
 
-- What you are trying to learn
-- For an interview topic, the starter questions you’ll ask along with likely
+* What you are trying to learn
+* For an interview topic, the starter questions you’ll ask along with likely
   follow ups
-- For a test task or workshop activity
-  - the steps to do
-  - explanations and instructions for participants, such asking them to think
+* For a test task or workshop activity
+
+  * the steps to do
+  * explanations and instructions for participants, such asking them to think
     out loud during a test so you can understand what’s happening
-- How long the topic, task or activity is likely to take
-- The priority - is this essential, or could you leave it out if you’re short of
+* How long the topic, task or activity is likely to take
+* The priority - is this essential, or could you leave it out if you’re short of
   time
 
 #### Wrap up
@@ -301,9 +294,9 @@ recordings, or deleting data from prototypes.
 We have template discussion guides for three different kinds of research
 activities:
 
-- [Interviews and contextual research](https://drive.google.com/open?id=1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
-- [Usability tests](https://drive.google.com/open?id=1hcVkLGJVDB9ZOoMIz93erUpk1RUgXN_ZcZflJxsFpHw)
-- [Workshops](https://drive.google.com/open?id=1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY)
+* [Interviews and contextual research](https://drive.google.com/open?id=1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
+* [Usability tests](https://drive.google.com/open?id=1hcVkLGJVDB9ZOoMIz93erUpk1RUgXN_ZcZflJxsFpHw)
+* [Workshops](https://drive.google.com/open?id=1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY)
 
 ## How we share research activities and findings
 
@@ -325,8 +318,8 @@ activities rather than research methods.
 
 Descriptions of research activities look like:
 
-We did _some kind of research_ with _some kinds of participants_ to learn
-_something the team needs to know_.
+We did *some kind of research* with *some kinds of participants* to learn
+*something the team needs to know*.
 
 We avoid using research jargon that our colleagues might not understand. For
 example, rather than talking about ‘ethnography’ or ‘contextual enquiry’ we
@@ -365,8 +358,7 @@ There are two basic options:
 
    In this case the client will manage all the research data we collect and keep
    the associated records of consent.
-
-1. If using the client’s consent materials is not possible, or if the client
+2. If using the client’s consent materials is not possible, or if the client
    asks us to do confidential research, we can use the dxw
    [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M)
    and
@@ -390,10 +382,10 @@ participant the information they need.
 You can use the same information sheet for several rounds or batches of
 research, as long as you are:
 
-- doing the research for the same purpose
-- doing the same things during the sessions
-- collecting the same research data
-- working with the same third-party organisations and suppliers
+* doing the research for the same purpose
+* doing the same things during the sessions
+* collecting the same research data
+* working with the same third-party organisations and suppliers
 
 We have
 [template information sheets](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M)
@@ -437,10 +429,10 @@ if a participant asks for one.
 
 For user research sessions where you meet the participant in person, you can:
 
-- give the participant a printed copy of the consent form
-- send the consent form in an accessible digital format the participant can read
+* give the participant a printed copy of the consent form
+* send the consent form in an accessible digital format the participant can read
   using their assistive technology
-- read the consent form aloud
+* read the consent form aloud
 
 Check with the participant which format works best for them.
 
@@ -453,8 +445,8 @@ the participant to sign .
 For user research sessions where you will not meet the participant face to face,
 you can:
 
-- attach the consent form to an email in an accessible digital format
-- send a paper consent form in the post
+* attach the consent form to an email in an accessible digital format
+* send a paper consent form in the post
 
 Ask the participant to send a reply, confirming their consent. They can reply to
 the email, or post back a signed paper consent form.
@@ -506,7 +498,7 @@ We do not expect to pay incentives to our clients‘ staff or to other public
 servants who take part in research related to their work.
 
 When we are paying an incentive, make sure the participant knows the amount of
-the incentive and how they will receive it. Include this in the [information
+the incentive and how they will receive it. Include this in the \[information
 sheet](link to consent guidance).
 
 ### Agreeing incentives
@@ -519,12 +511,12 @@ batch of research.
 
 On previous project we have paid:
 
-- £30 of Love2Shop vouchers for 1.5 hours of in-person usability testing
-- £50 cash for geographically-specific users to take part in 1 hour of remote
+* £30 of Love2Shop vouchers for 1.5 hours of in-person usability testing
+* £50 cash for geographically-specific users to take part in 1 hour of remote
   mobile usability testing
-- £100 cash for an hour-long discovery research session with people likely to
+* £100 cash for an hour-long discovery research session with people likely to
   need assisted digital support
-- £100 cash for 45 minute research session with small businesses
+* £100 cash for 45 minute research session with small businesses
 
 ### Confirming incentives at the start of the research session
 
@@ -548,7 +540,7 @@ Where we are paying the incentive, we use shopping vouchers. Normally from
 [Love2shop](https://www.highstreetvouchers.com/gifts/love2shop-gift-vouchers).
 
 Request the amount of vouchers you need through the
-[#help-purchasing](https://dxw.slack.com/archives/C8ZGR2Y8Z) Slack channel and
+[\#help-purchasing](https://dxw.slack.com/archives/C8ZGR2Y8Z) Slack channel and
 [purchasing form](https://docs.google.com/forms/d/e/1FAIpQLSdz8-Z-fcootRS6UyceXbxdSdbO4-2jIyRrHHiI-3VH4LyRrw/viewform).
 They should be in £5 and £10 denominations so they are easier to spend.
 
@@ -607,8 +599,7 @@ Here we provide additional, specific guidance for researchers at dxw.
    consent you’ve collected. If a participant changes their mind about what they
    consent to, be prepared to not make, or to delete recordings you no longer
    have consent for.
-
-1. **Do not use your personal devices**
+2. **Do not use your personal devices**
 
    Always use a dxw provided device, rather than your personal device, when
    taking notes and photos, or making recordings.
@@ -617,28 +608,26 @@ Here we provide additional, specific guidance for researchers at dxw.
    participants can be mixed into our personal data stores, like cloud photo
    libraries. And also runs the risk of participants, client staff and
    colleagues seeing our personal messages and images.
-
-1. **Keep your notes and recordings secure**
+3. **Keep your notes and recordings secure**
 
    As soon as possible after the session, transfer any notes and recordings from
    paper and other devices to your dxw provided laptop. And from your laptop to
    the dxw Google Drive or to the client’s research store.
 
    Keep only anonymised notes, quotes and images in tools like Miro and Trello.
-
-1. **Have a fall back**
+4. **Have a fall back**
 
    The one certainty in user research is that things go wrong. So make sure you
    have other options to capture what you need.
 
    For example:
 
-   - The participant may decide they don’t want to be recorded in a particular
+   * The participant may decide they don’t want to be recorded in a particular
      way, so be prepared to switch from video to an audio-only recording, or to
      just take notes
-   - Your preferred device, app or service may not be working properly, so have
+   * Your preferred device, app or service may not be working properly, so have
      an alternative like a paper notebook
-   - Your note taker, assistant or observer may not be able to join the session,
+   * Your note taker, assistant or observer may not be able to join the session,
      so be prepared to take notes and recordings yourself
 
    Note that if the participant refuses all recording, including note taking,
@@ -652,10 +641,10 @@ policies.
 
 With your laptop you can:
 
-- capture notes to a local file or a Google Sheet
-- record audio using a microphone and the Voice Memos or Quicktime apps
-- record video using an external camera and Quicktime
-- record your laptop screen using Quicktime or Screenshot
+* capture notes to a local file or a Google Sheet
+* record audio using a microphone and the Voice Memos or Quicktime apps
+* record video using an external camera and Quicktime
+* record your laptop screen using Quicktime or Screenshot
 
 If research participants might use your laptop or see your screen during a
 research session, it’s a good idea to create a separate ‘research’ user account
@@ -783,9 +772,9 @@ research.
 
 When doing fully confidential research:
 
-- we strictly limit access to participant details
-- use private meeting invites
-- share only fully anonymised findings
+* we strictly limit access to participant details
+* use private meeting invites
+* share only fully anonymised findings
 
 ## How we take care of research data
 
@@ -811,7 +800,6 @@ There are two basic options:
 
    In this case we use the client's consent materials and store the research
    data in their systems.
-
 2. We are the data controller for the research data, and we limit the client’s
    access to the research data.
 
@@ -859,22 +847,19 @@ data and contact details.
 To identify research data in Google Drive, we follow our
 [general file naming convention](#how-we-name-and-identify-documents).
 
-- We keep research data in subfolders identified by the date of the research,
+* We keep research data in subfolders identified by the date of the research,
   the project and the research activity. For example:
 
   2021 04 - Research - BEIS ODA - Observing the ODA QA process
-
-- We name individual files with the date collected, the project and the research
+* We name individual files with the date collected, the project and the research
   activity. For example:
 
   2021 04 - Notes - BEIS ODA - Observing the ODA QA process
-
-- If needed, we add participant numbers to identify the different data files
+* If needed, we add participant numbers to identify the different data files
   within a research activity. For example:
 
   2021 04 08 - P2 - Recording - BEIS ODA - Observing the ODA QA process
-
-- We use matching file names to keep records of consent. For example:
+* We use matching file names to keep records of consent. For example:
 
   2021 04 08 - P2 - Consent - BEIS ODA - Observing the ODA QA process
 
