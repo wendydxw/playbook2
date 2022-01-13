@@ -1,7 +1,6 @@
 ---
 title: Dealing with an incident
 ---
-
 ## Introduction
 
 This guide defines what an incident is, how we react to them, and how we follow
@@ -11,21 +10,22 @@ responsibility of the on-call support person to deal with an incident.
 
 ## Summary
 
-- Identify the problem
-- Decide if it’s an incident
-- Create an incident channel with /incident
-- Appoint an incident lead
-- Decide severity - critical, major, or minor (when it doubt, go higher)
-- Communicate the problem
-  - If major or critical, post in #general
-  - Appoint a client comms manager if clients are affected
-  - Inform the CTO, Head of Tech Ops, and DPO if there is a security or data
+* Identify the problem
+* Decide if it’s an incident
+* Create an incident channel with /incident
+* Appoint an incident lead
+* Decide severity - critical, major, or minor (when it doubt, go higher)
+* Communicate the problem
+
+  * If major or critical, post in #general
+  * Appoint a client comms manager if clients are affected
+  * Inform the CTO, Head of Tech Ops, and DPO if there is a security or data
     breach
-- Understand, contain, resolve, and monitor the incident
-- Schedule a review meeting
-- Write up a first draft report and circulate it
-- Hold the review meeting
-- Write up the final report
+* Understand, contain, resolve, and monitor the incident
+* Schedule a review meeting
+* Write up a first draft report and circulate it
+* Hold the review meeting
+* Write up the final report
 
 ## What is an incident?
 
@@ -35,11 +35,11 @@ service’s quality, security, redundancy or performance.
 There is no hard and fast rule about what is and isn’t an incident, but
 generally something is an incident if it:
 
-- Affects security or discloses sensitive data
-- Causes data loss
-- Causes a site to be unavailable
-- Impacts front end users for more than a couple of minutes
-- Causes a significant departure from expected behaviour
+* Affects security or discloses sensitive data
+* Causes data loss
+* Causes a site to be unavailable
+* Impacts front end users for more than a couple of minutes
+* Causes a significant departure from expected behaviour
 
 Incidents are usually acute (short and sharp) problems rather than chronic
 (long-running) ones. For example known long-term bugs are generally not
@@ -47,21 +47,21 @@ incidents.
 
 Incidents for which reporting would be appropriate will include
 
-- A site not responding to requests (from a small number of failures to a
+* A site not responding to requests (from a small number of failures to a
   significant number. I.e. an outage)
-- A site is responding to a significant number of requests with an error, eg 503
+* A site is responding to a significant number of requests with an error, eg 503
   (although not for expected errors, e.g. 404 for files not expected to exist)
-- Supported browsers being presented with errors (e.g. certificate warnings)
-- Unauthorised content being made publicly available (e.g. a site defacement)
-- Unauthorised exposure of sensitive data. (e.g. user credentials being exposed)
-- Any event which triggers a significant warning level on an alerting system
+* Supported browsers being presented with errors (e.g. certificate warnings)
+* Unauthorised content being made publicly available (e.g. a site defacement)
+* Unauthorised exposure of sensitive data. (e.g. user credentials being exposed)
+* Any event which triggers a significant warning level on an alerting system
 
 Some things that would be an incident on one site would not be on another. For
 example a denial of service (DOS) attack would be an incident if it knocked out
 a smaller site, but would not be one if it just increased load times slightly on
 a larger site that is attacked regularly.
 
-If you are unsure, then assume it _is_ an incident.
+If you are unsure, then assume it *is* an incident.
 
 ### Out of hours alerts
 
@@ -90,14 +90,14 @@ Your first step should be to understand the problem. How best to do that will
 depend on the incident, but we mostly run simple websites so the following are
 always good steps:
 
-- Is the site or server available? Use
+* Is the site or server available? Use
   [Airtable](https://airtable.com/tblne7bw5jfACz2XB/viwF0lQjetG2ICuO2?blocks=hide)
   to discover the URL
-- Check if this alert is a currently known event in ops/docs and read any
+* Check if this alert is a currently known event in ops/docs and read any
   previous guidance
-- Find the available tooling for this site/server, see Airtable and the repo
+* Find the available tooling for this site/server, see Airtable and the repo
   documentation
-- Investigate the issue using available tooling to improve our understanding of
+* Investigate the issue using available tooling to improve our understanding of
   the impact of this event (looking at logs, metrics etc.)
 
 Once you have identified the problem see if there is an
@@ -124,8 +124,10 @@ installed on the dxw Slack for this purpose.
 If it is a major or critical incident, you should post a notice in #general so
 that everyone is aware. Something along the lines of:
 
-    We have been having a security incident with some wordpress sites since 09:00.
-    See [#inc-2021-07-01-mavis-sites](https://dxw.slack.com/archives/C026BN221D5)
+```
+We have been having a security incident with some wordpress sites since 09:00.
+See [#inc-2021-07-01-mavis-sites](https://dxw.slack.com/archives/C026BN221D5)
+```
 
 ### Deciding severity
 
@@ -133,9 +135,9 @@ We have three levels of severity (based on
 [those used by GOV.UK](https://insidegovuk.blog.gov.uk/2016/05/11/categorising-incidents-on-gov-uk/)).
 To decide which one is most appropriate, we ask three questions:
 
-- What’s the urgency and why?
-- What’s the impact on our users and systems?
-- What’s the extent of the issue and how many systems and users are affected?
+* What’s the urgency and why?
+* What’s the impact on our users and systems?
+* What’s the extent of the issue and how many systems and users are affected?
 
 If you’re torn between two categories, opt for the higher one. It’s always
 better to escalate an issue than to miss something important. We can easily
@@ -214,12 +216,12 @@ find.
 
 When responding to an incident your goals are to:
 
-- **Understand** what is happening
-- **Contain** any breach. Revoke any unauthorised access, remove any
+* **Understand** what is happening
+* **Contain** any breach. Revoke any unauthorised access, remove any
   modifications and identify if any data has been compromised. Preserve data
   that may be required for later investigation or forensics.
-- **Restore** normal service by taking action to resolve the problem
-- **Monitor** systems to ensure that they continue to operate normally
+* **Restore** normal service by taking action to resolve the problem
+* **Monitor** systems to ensure that they continue to operate normally
 
 ### Communication
 
@@ -244,7 +246,7 @@ and you can also use it to update the status and log actions
 
 #### Client communications
 
-_This section is for the client comms manager_
+*This section is for the client comms manager*
 
 Often we will become aware of an incident because a client has raised a Zendesk
 ticket with us, but the incident may also affect other clients.
@@ -303,19 +305,20 @@ circulate a few days in advance of the incident review.
 
 ## Writing up an incident
 
-_This section is for the person responsible for investigating and writing up the
+*This section is for the person responsible for investigating and writing up the
 incident. This will not necessarily be the incident lead who responded to the
-incident._
+incident.*
 
 Most incidents get a report,
 [based on this template](https://docs.google.com/document/d/1J9bz-B8AxM7fWl7GFxSj7y287f_mmiLRWBHsubQ2wsA/edit),
 with:
 
-- An overview of the incident, including impact figures
-  - requests/visits/users impacted and over what time
-- A timeline of events and response actions
-- An explanation of the incident, including contributing factors
-- Any proposed actions
+* An overview of the incident, including impact figures
+
+  * requests/visits/users impacted and over what time
+* A timeline of events and response actions
+* An explanation of the incident, including contributing factors
+* Any proposed actions
 
 This is primarily an internal document, but a condensed version will be made
 available to the client. You should store it in a new folder in the
@@ -354,8 +357,8 @@ as open as possible.
 
 ## Reviewing an incident
 
-_This section is for the incident review facilitator, who should not normally
-have been involved in the incident response_
+*This section is for the incident review facilitator, who should not normally
+have been involved in the incident response*
 
 A few days after an incident, we hold an incident review meeting. These are
 usually 1.5-2 hours long depending on the complexity of the incident.
@@ -367,9 +370,9 @@ full understanding of what happened and the thinking behind how we responded.
 
 Crucially, the review is not about blame. When reviewing incidents we follow the
 ‘[prime directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive)’:
-_“Regardless of what we discover, we understand and truly believe that everyone
+*“Regardless of what we discover, we understand and truly believe that everyone
 did the best job they could, given what they knew at the time, their skills and
-abilities, the resources available, and the situation at hand.”_
+abilities, the resources available, and the situation at hand.”*
 
 We don’t know enough about our system, which is why something went wrong. For
 the review to be effective it should be a blameless learning experience. We want
@@ -382,10 +385,10 @@ The discussion should include the people who responded to the incident, a
 delivery manager (if there was a client impact, preferably for the relevant
 client) and any other staff who have an interest:
 
-- People involved in the incident must attend
-- People involved with the client should attend
-- Available members of the tech team should attend
-- Other members of the company can attend
+* People involved in the incident must attend
+* People involved with the client should attend
+* Available members of the tech team should attend
+* Other members of the company can attend
 
 If there is ongoing work with the client (ie. an active sprint) then the sprint
 team (including the client’s staff) should attend.
@@ -420,7 +423,7 @@ ask questions that provide context for X. Not everyone in the discussion will
 come to the meeting knowing that context, so it’s important not to skip over
 details as you walk through the timeline.
 
-The review should focus on the _how_ rather than the _why_. ‘How did the
+The review should focus on the *how* rather than the *why*. ‘How did the
 attacker gain access to the database?’ is more useful to us than ‘why was the
 attacker able to access the database?’, and shifts the conversation away from
 blame and towards learning. See
@@ -431,17 +434,19 @@ clearly set out the focus of the meeting at the start.
 
 Some key questions:
 
-- What happened?
-  - What made us declare an incident? What triggered this?
-  - How did we respond?
-  - What were the key decision points?
-  - How did we make those decisions?
-- Have we taken all the restorative actions that we need to take?
-- Do we have a plan for communicating with the client/s?
-- How can we do better at responding to incidents?
-  - How could our processes be improved?
-  - How could our documentation be improved?
-- How could we prevent this kind of incident from happening again?
+* What happened?
+
+  * What made us declare an incident? What triggered this?
+  * How did we respond?
+  * What were the key decision points?
+  * How did we make those decisions?
+* Have we taken all the restorative actions that we need to take?
+* Do we have a plan for communicating with the client/s?
+* How can we do better at responding to incidents?
+
+  * How could our processes be improved?
+  * How could our documentation be improved?
+* How could we prevent this kind of incident from happening again?
 
 It is easy to focus on the ‘how could we prevent this kind of incident from
 happening again?’ part of the discussion and get thinking about preventative
