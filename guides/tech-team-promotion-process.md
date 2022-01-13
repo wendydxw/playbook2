@@ -1,7 +1,6 @@
 ---
 title: Technology team promotion process
 ---
-
 This policy applies to ad-hoc promotions for roles corresponding to SFIA 1-5
 only. For gaps we identify in the team, one-off roles, or more senior roles
 (SFIA 6-7), we use a different process, often involving internal or external
@@ -22,16 +21,16 @@ Are you here as a panelist? [Skip ahead to the section for you!](#for-panelists)
 ### Summary
 
 1. You express an interest in being promoted
-1. The directors decide if there is scope for accepting promotions of that kind
+2. The directors decide if there is scope for accepting promotions of that kind
    from a business perspective
-1. An application deadline is set
-1. You gather evidence into a promotion pack (supported by your line manager)
-1. You submit the promotion pack for review by a promotion panel
-1. Panelists review your pack independently
-1. The panel meets to discuss your application and make a strong recommendation
+3. An application deadline is set
+4. You gather evidence into a promotion pack (supported by your line manager)
+5. You submit the promotion pack for review by a promotion panel
+6. Panelists review your pack independently
+7. The panel meets to discuss your application and make a strong recommendation
    on whether to approve it or not
-1. A decision is made
-1. The decision is shared with you with feedback
+8. A decision is made
+9. The decision is shared with you with feedback
 
 ### Eligibility
 
@@ -62,11 +61,11 @@ implications and make a decision about whether or not to accept applications.
 
 Possible decisions are:
 
-- Promotions would be accepted, with immediate effect
-- Promotions would be accepted, but at a future specified date
-- Promotions would not be accepted, but may become available within the next
+* Promotions would be accepted, with immediate effect
+* Promotions would be accepted, but at a future specified date
+* Promotions would not be accepted, but may become available within the next
   year
-- Promotions would not be accepted, and are unlikely to become available within
+* Promotions would not be accepted, and are unlikely to become available within
   the next year
 
 If promotions would be accepted, they also decide on an upper limit on the
@@ -99,10 +98,10 @@ statement from your line manager on the same topic, and evidence to demonstrate
 why you would meet the needs of the role you would be promoted into. Good
 evidence for this might include:
 
-- evidence of you doing the things described with how they went
-- feedback from people you have worked with or clients that demonstrate your
+* evidence of you doing the things described with how they went
+* feedback from people you have worked with or clients that demonstrate your
   ability to do the things described
-- evidence of similar activities that give you and your line manager confidence
+* evidence of similar activities that give you and your line manager confidence
   you are ready to take on the responsibilities of the role
 
 Make sure you address all of the needs of the level and don’t leave any gaps.
@@ -140,12 +139,12 @@ appropriate panel to review your application.
 
 A panel is made up of:
 
-- someone from your discipline at least as senior as the role you are applying
+* someone from your discipline at least as senior as the role you are applying
   for, if possible
-- your Head of Discipline (unless they are your line manager)
-- another member of the technology leadership team (Head of Development, Head of
+* your Head of Discipline (unless they are your line manager)
+* another member of the technology leadership team (Head of Development, Head of
   Technical Operations, and Technical Architects)
-- two Heads of Discipline, Principals, or Leads from outside the technology team
+* two Heads of Discipline, Principals, or Leads from outside the technology team
 
 The panel must not include your line manager, buddy, or anyone in a close
 personal relationship with you to avoid conflicts of interest. This includes
@@ -178,11 +177,11 @@ The panelists then individually review the application without conferring with
 each other and score against each of the criteria in the progression framework.
 They use a scale of 1 to 5 where:
 
-- 1 means you have a lot to improve before being able to work at the level you
+* 1 means you have a lot to improve before being able to work at the level you
   are applying for
-- 3 means you are working at or are capable of working at the level you are
+* 3 means you are working at or are capable of working at the level you are
   applying for
-- 5 means you are already working at or are capable of working at a level more
+* 5 means you are already working at or are capable of working at a level more
   senior level than the one you are applying for
 
 Each score given must be accompanied by a few lines of reasoning. This helps
@@ -256,9 +255,9 @@ potentially far reaching consequences.
 
 This process asks two things of you:
 
-- 1 hour of your time to meet with the rest of the panel to discuss the
+* 1 hour of your time to meet with the rest of the panel to discuss the
   application
-- 2 hours in the week leading up to that meeting to evaluate the application
+* 2 hours in the week leading up to that meeting to evaluate the application
   independently
 
 You should make sure that time is protected and is your highest priority, so you
@@ -280,39 +279,31 @@ Once you have accepted the position as lead panelist:
 
 1. Ask the Head of Discipline for the names of the other panelists and the
    application deadline.
-
-1. Set up an application deadline calendar event at 16:00 on the deadline,
+2. Set up an application deadline calendar event at 16:00 on the deadline,
    inviting the applicant, their line manager, and their Head of Discipline.
    This is the date by which the applicant must submit their promotion pack by
    email to a member of the HR team, their Head of Discipline, and their line
    manager. Include the
    [instructions on how to submit the application](#submitting-the-application)
    described in the process above in the event description.
-
-1. Set up a joint review with all of the panelists. This review must be between
+3. Set up a joint review with all of the panelists. This review must be between
    7 and 14 days after the application deadline. It should be a 1 hour event in
    the afternoon. You will want to set this up as soon as possible to hold the
    time for all of the panelists.
-
-1. Set up an independent review deadline calendar event exactly 24 hours before
+4. Set up an independent review deadline calendar event exactly 24 hours before
    the start of the joint review, inviting all of the panelists.
-
-1. After the application deadline, ask the Head of Discipline to share the
+5. After the application deadline, ask the Head of Discipline to share the
    promotion pack with you and the other panelists in read-only mode.
-
-1. Create the independent review form from
+6. Create the independent review form from
    [the appropriate template](https://drive.google.com/drive/folders/1q4idxObiYhqOAWuzudFQcGAk_70yZk-I)
    and invite the panelists (including yourself) to complete it by the review
    deadline.
-
-1. Don’t look at any other submissions until you have done your own.
-
-1. Make sure you have received all independent reviews by the deadline
+7. Don’t look at any other submissions until you have done your own.
+8. Make sure you have received all independent reviews by the deadline
    (including your own). If you don’t have all the reviews by that time, talk to
    the Head of Discipline or a director about getting the missing reviews as
    soon as possible.
-
-1. Prepare a slide deck from
+9. Prepare a slide deck from
    [the template](https://docs.google.com/presentation/d/1ZqwIaVkFDXnY7ifGS3Kp3ZQQvvKF0IapPhnbUGDoQZQ/edit),
    documenting the results of the independent review. It’s useful to include the
    graphs. You should organize the criteria for discussion in the following
@@ -320,41 +311,33 @@ Once you have accepted the position as lead panelist:
 
    1. Criteria where some scores are 3 or above and some are 2 or below.
       Prioritize criteria with the highest variance in scores.
-
-   1. Criteria where all of the scores are 2 or below.
-
-   1. Criteria where all of the scores are 3 or above. There is usually no need
+   2. Criteria where all of the scores are 2 or below.
+   3. Criteria where all of the scores are 3 or above. There is usually no need
       to discuss these criteria, but start with the ones with the highest
       variance in scores.
+10. Ask one of the other panelists to take notes during the meeting in a document
+    shared with all panelists.
+11. Facilitate the joint review discussion, sharing the slide deck you prepared.
 
-1. Ask one of the other panelists to take notes during the meeting in a document
-   shared with all panelists.
-
-1. Facilitate the joint review discussion, sharing the slide deck you prepared.
-
-   1. The first task is to gather consensus on criteria where panelists
-      disagreed in their independent reviews. Invite panelists to talk about
-      their scores and why they gave them, then discuss the evidence and
-      criteria. When ready to move on, simultaneously vote on new scores and
-      record the individual votes. This will take up the bulk of the time, but
-      be prepared to move the panel on if they seem unable to reach consensus.
-      It’s important for the panel to discuss all of the criteria with
-      disagreement, so plan how long to allow on each one in advance.
-
-   1. The second task is to identify whether or not any criteria now scoring 2
-      or below is sufficient to disqualify the applicant. It’s unusual to
-      approve a promotion for someone with 2 or more criteria in this category.
-      This can be useful to consider if you are struggling to reach consensus on
-      a few criteria with 20 minutes remaining and need something to break the
-      tie.
-
-   1. The third task is to generate a recommendation for whether or not to
-      accept the application for promotion. Simultaneously vote and record the
-      individual votes. Everyone must cast a vote here. There is no abstention.
-      Allow at least 10 minutes at the end for this step.
-
-1. Share the new scores and notes from the session with the Head of Discipline.
-
-1. That’s it. You’re done. Thank you for your help!
+    1. The first task is to gather consensus on criteria where panelists
+       disagreed in their independent reviews. Invite panelists to talk about
+       their scores and why they gave them, then discuss the evidence and
+       criteria. When ready to move on, simultaneously vote on new scores and
+       record the individual votes. This will take up the bulk of the time, but
+       be prepared to move the panel on if they seem unable to reach consensus.
+       It’s important for the panel to discuss all of the criteria with
+       disagreement, so plan how long to allow on each one in advance.
+    2. The second task is to identify whether or not any criteria now scoring 2
+       or below is sufficient to disqualify the applicant. It’s unusual to
+       approve a promotion for someone with 2 or more criteria in this category.
+       This can be useful to consider if you are struggling to reach consensus on
+       a few criteria with 20 minutes remaining and need something to break the
+       tie.
+    3. The third task is to generate a recommendation for whether or not to
+       accept the application for promotion. Simultaneously vote and record the
+       individual votes. Everyone must cast a vote here. There is no abstention.
+       Allow at least 10 minutes at the end for this step.
+12. Share the new scores and notes from the session with the Head of Discipline.
+13. That’s it. You’re done. Thank you for your help!
 
 Please keep the Head of Discipline informed as you work through this process!
