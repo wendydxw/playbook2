@@ -19,3 +19,11 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "guides"
+      label: "Guides"
+      folder: "guides"
+      create: true
+      slug: "{{slug}}"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Body", name: "body", widget: "markdown" }
