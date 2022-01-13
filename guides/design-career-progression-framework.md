@@ -1,7 +1,6 @@
 ---
 title: Design career progression framework
 ---
-
 ## Why do we have a career progression framework?
 
 Not knowing if progression can ever happen for you, or if it always feels out of
@@ -32,19 +31,19 @@ levels of progress.
 
 There are six areas of proficiency:
 
-- Design
-- Technical
-- Communication
-- Delivery
-- Empathy
-- Leadership
+* Design
+* Technical
+* Communication
+* Delivery
+* Empathy
+* Leadership
 
 And there are currently four levels of progression:
 
-- Designer level 1
-- Designer level 2
-- Designer level 3
-- Designer level 4
+* Designer level 1
+* Designer level 2
+* Designer level 3
+* Designer level 4
 
 Note: these are not roles, or titles — those remain “Designer”, and “Senior
 Designer”. It is important to note that you do not need to be at level 4 to
