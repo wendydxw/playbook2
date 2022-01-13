@@ -1,7 +1,6 @@
 ---
 title: Support and on call
 ---
-
 We have agreed service levels for each client we provide support for. Our
 standard terms, including prioritisation definitions and response times, are
 detailed in our
@@ -14,23 +13,23 @@ their service as [documented in the main playbook](/#supporting-services).
 
 We provide support for clients and users of these services in three ways:
 
-- Clients can raise a **ticket** with us to fix a problem or make a change to a
+* Clients can raise a **ticket** with us to fix a problem or make a change to a
   site we support.
-- We do proactive **maintenance** for our clients' services, for example by
+* We do proactive **maintenance** for our clients' services, for example by
   applying security updates.
-- We have monitoring systems for our services that continually check whether
+* We have monitoring systems for our services that continually check whether
   they are operating correctly, and whether there are any warning signs of
   problems. When problems are detected they raise an **alert** for the team to
   investigate and resolve.
 
 That support is handled by the team in two ways:
 
-- We provide in-hours (10:00 – 18:00) support for all our clients, resolving
+* We provide in-hours (10:00 – 18:00) support for all our clients, resolving
   tickets and alerts and doing maintenance. We call this
   [first line support](#being-on-first-line-support), and it's staffed by a
   developer and an operations engineer
   [on a rota](#support-scheduling-and-the-rota).
-- We provide out-of-hours (24/7) support for some of our clients, responding
+* We provide out-of-hours (24/7) support for some of our clients, responding
   only to critical alerts and emergency tickets. We call this
   [on call](#being-on-call), and it's staffed by a developer or an operations
   engineer through a separate opt-in rota, with additional compensation.
@@ -71,20 +70,18 @@ will soon breach) their SLA, trying to resolve those effectively.
 People on support are free to work on whichever tickets they are assigned to and
 think is most important. But there are some important things to bear in mind:
 
-- Triage
+* Triage
 
   We all have limited time. We try to spend it wisely. All other things being
   equal, it is better to spend half an hour solving each of four tickets than to
   spend two hours on one issue.
-
-- Priority
+* Priority
 
   The priority of tickets is important, and we must be biased towards dealing
   with more urgent tickets before less urgent ones. Each ticket's priority
   should be reviewed regularly: whenever we update a ticket, we check the
   priority to make sure it's still right.
-
-- Time since last response
+* Time since last response
 
   Our clients expect to be kept in the loop. If a ticket hasn't had any activity
   for a while, it might be a sign that it needs following up on. This might mean
@@ -131,12 +128,12 @@ service we provide, including help with using the admin panel and advice on
 getting the best out of their site. But there are some limitations. Under the
 support service, we do not:
 
-- add any new functionality requiring anything beyond extremely trivial
+* add any new functionality requiring anything beyond extremely trivial
   development or plugin integration
-- alter the source code of a plugin or library maintained by a third party
-- do things that the client can do for themselves, letting them know how to do
+* alter the source code of a plugin or library maintained by a third party
+* do things that the client can do for themselves, letting them know how to do
   it themselves instead
-- other than by prior arrangement, communicate on the client's behalf with the
+* other than by prior arrangement, communicate on the client's behalf with the
   operators of third-party services that the site uses
 
 From time to time, we may make an exception to these restrictions. If you think
@@ -272,8 +269,8 @@ the `Default API` (not the `ops_team api`) and add them as a responder.
 If you are alerted out of hours you can claim Time Off in Lieu (TOIL) in
 BreatheHR.
 
-- For alerts while you are awake you can claim 0.25 days of TOIL.
-- For alerts which wake you up you can claim 0.5 days of TOIL.
+* For alerts while you are awake you can claim 0.25 days of TOIL.
+* For alerts which wake you up you can claim 0.5 days of TOIL.
 
 If you have to work more than an hour fixing an alert, you can claim extra TOIL
 at 0.25 days per hour.
