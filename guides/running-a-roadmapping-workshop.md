@@ -213,4 +213,4 @@ Someone must own and maintain the roadmap. Most often this will be a Product
 Manager or Product Owner in the client organisation, although we will own the
 roadmap if we have to. The owner works with the team and stakeholders to
 regularly review and update the roadmap. Without clear ownership the roadmap
-will quickly drop out of use and lose it’s value.
+will quickly drop out of use and lose its value.
