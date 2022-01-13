@@ -1,7 +1,6 @@
 ---
 title: Inclusion, diversity and equal opportunities policy
 ---
-
 ## Equal opportunities statement
 
 At dxw, we value people and believe that having a team of individuals with
@@ -76,17 +75,17 @@ is prohibited.
 The following forms of discrimination are prohibited under this policy and are
 unlawful:
 
-- Direct discrimination: treating someone less favourably because of a Protected
+* Direct discrimination: treating someone less favourably because of a Protected
   Characteristic. For example, rejecting a job applicant because of their
   religious views, their sexuality, or a disability.
-- Indirect discrimination: a provision, criterion, or practice that applies to
+* Indirect discrimination: a provision, criterion, or practice that applies to
   everyone but adversely affects people with a particular Protected
   Characteristic more than others.
-- Harassment: this includes sexual harassment and other unwanted conduct related
+* Harassment: this includes sexual harassment and other unwanted conduct related
   to a Protected Characteristic, which has the purpose or effect of violating
   someone's dignity or creating an intimidating, hostile, degrading,
   humiliating, or offensive environment for them.
-- Victimisation: retaliation against someone who has complained or has supported
+* Victimisation: retaliation against someone who has complained or has supported
   someone else's complaint about discrimination or harassment.
 
 ## Recruitment and selection
@@ -116,11 +115,11 @@ Job applicants must not be asked about health or disability before a job offer
 is made. The following are limited exceptions which should only be used with the
 approval of the HR Manager.
 
-- Questions necessary to establish if an applicant can perform an intrinsic part
+* Questions necessary to establish if an applicant can perform an intrinsic part
   of the job after any reasonable adjustments.
-- Questions to establish if an applicant is fit to attend an assessment or any
+* Questions to establish if an applicant is fit to attend an assessment or any
   reasonable adjustments that may be needed at interview or assessment.
-- Equal opportunities monitoring (which will not form part of the selection or
+* Equal opportunities monitoring (which will not form part of the selection or
   decision-making process).
 
 We are required by law to ensure that all employees are entitled to work in the
