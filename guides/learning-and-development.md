@@ -1,7 +1,6 @@
 ---
 title: Learning and development
 ---
-
 We have an annual learning and development allowance of £1,000 and up to 4 days
 per person.
 
@@ -26,46 +25,47 @@ use unbilled days for different types of professional development.
 Finding the right thing to use the allowance for can be difficult. Here are some
 ways you can find ideas:
 
-- Check the
+* Check the
   [Learning and development bikeshed post](https://bikeshed.dxw.com/?p=13876) to
   see what other people have done this year
-- Ask other people on your team what they've done
-- Talk to your line manager, who can help you identify potential areas for
+* Ask other people on your team what they've done
+* Talk to your line manager, who can help you identify potential areas for
   development and find suitable events or training
-- Ask the HR team for ideas
+* Ask the HR team for ideas
 
 ### Book the activity
 
-- Agree the plan with your line manager before you book anything
-- Log it in [Breathe](https://hr.breathehr.com/) as a training request for your
+* Agree the plan with your line manager before you book anything
+* Log it in [Breathe](https://hr.breathehr.com/) as a training request for your
   line manager to approve:
-  - Go to "My profile" on the top menu
-  - Click the "Training" button
-  - Click the "+" button to add a new request
-  - Include weblinks and an estimate of the ticket, accommodation and travel
+
+  * Go to "My profile" on the top menu
+  * Click the "Training" button
+  * Click the "+" button to add a new request
+  * Include weblinks and an estimate of the ticket, accommodation and travel
     costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
-- Once it’s approved, post in the #dxw-learning-and-development-bookings channel
+* Once it’s approved, post in the #dxw-learning-and-development-bookings channel
   if you would like support with payment. You can also purchase yourself and
   make an expense claim
-- Think about sharing event with the rest of your team if it's something other
+* Think about sharing event with the rest of your team if it's something other
   people might find relevant/useful
-- Add to your Google calendar and make sure your project team know when you're
+* Add to your Google calendar and make sure your project team know when you're
   going to be away
 
 ### After you get back
 
-- Take some time to reflect on what you learnt, and (if appropriate) how it
+* Take some time to reflect on what you learnt, and (if appropriate) how it
   applies to your work at dxw
-- Update the latest yearly
+* Update the latest yearly
   [Learning and Development bikeshed post](https://bikeshed.dxw.com/?p=13876)
   with details of the event
-- Consider writing a standalone bikeshed post giving more details about the
+* Consider writing a standalone bikeshed post giving more details about the
   event and how you found it
 
 ### If you need help
 
-- Contact the HR team, or ask a question in Slack
+* Contact the HR team, or ask a question in Slack
   (#dxw-learning-and-development-bookings)
 
 ### The small print
@@ -111,13 +111,13 @@ liable to repay some or all of the fees and expenses incurred.
 Other than in exceptional circumstances, which will be decided at the Directors’
 discretion, you will be required to repay dxw as follows:
 
-- If you leave dxw before you attend the course, you will repay 100% of the
+* If you leave dxw before you attend the course, you will repay 100% of the
   costs that dxw cannot recover from the course provider.
-- If you leave dxw during the course or within 9 months of completing it, you
+* If you leave dxw during the course or within 9 months of completing it, you
   will repay 75% of the costs.
-- If you leave dxw more than 9 months and no more than 12 months after
+* If you leave dxw more than 9 months and no more than 12 months after
   completing the course, you will repay 50% of the costs.
-- If you leave dxw more than 12 months after completing the course, no repayment
+* If you leave dxw more than 12 months after completing the course, no repayment
   will be required.
 
 We appreciate that these percentages won’t always work given the length of the
@@ -127,8 +127,8 @@ course.
 
 You will not be required to repay any costs in the following circumstances:
 
-- Compulsory or voluntary redundancy
-- Retirement due to sickness
+* Compulsory or voluntary redundancy
+* Retirement due to sickness
 
 Please complete this
 [form](https://docs.google.com/document/d/1gkK8L345gmmHFjqxduz5hvHyRvejMJd_rVNXQtZLrQE/edit)
