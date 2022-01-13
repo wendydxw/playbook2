@@ -1,7 +1,6 @@
 ---
 title: Web performance
 ---
-
 A web performance budget can be a useful reference for helping you figure out
 what should and shouldn't go on your website. Ultimately it can help reduce the
 footprint of our websites and help make the the experience better for more users
@@ -14,11 +13,11 @@ Before designing and building a project define a limit to how many bytes you
 should allow for pages, scripts and assets. In your budget break it down to
 include:
 
-- HTML
-- Images
-- CSS
-- JavaScript
-- Other
+* HTML
+* Images
+* CSS
+* JavaScript
+* Other
 
 ## Performance Budget calculator
 
@@ -48,5 +47,5 @@ their website has.
 
 ## Further reading
 
-- [Webwaste](https://alistapart.com/article/webwaste/)
-- [Website Carbon Calculator](https://www.websitecarbon.com/)
+* [Webwaste](https://alistapart.com/article/webwaste/)
+* [Website Carbon Calculator](https://www.websitecarbon.com/)
