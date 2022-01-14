@@ -5,7 +5,9 @@ defaults:
     values:
       layout: "default"
 collections:
-  - guides
+  guides:
+    output: true
+    sort_by: title
 
 # Welcome to Jekyll!
 #
