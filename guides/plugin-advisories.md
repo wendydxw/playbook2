@@ -69,7 +69,7 @@ or maybe:
 Proof of concept:
 
 > If a logged-in administrator user clicks the submit button on this form, a
-> JavaScript alert will display on {{A SPECIFIC PAGE}} (In a real attack the
+> JavaScript alert will display on \[A SPECIFIC PAGE] (In a real attack the
 > form can be made to auto-submit using JavaScript).”
 
 ### Unserialize
@@ -163,7 +163,7 @@ Their policy is this:
 If we couldn’t get in touch with the plugin author then WP Org may be able to
 contact them on our behalf, BUT we shouldn’t expect them to feed back any
 information to us, or even to confirm that they have successfully contacted the
-author (they are insanely busy).
+author (they are extremely busy).
 
 Therefore we shouldn’t say things like “No response from WP Org” (because we
 shouldn’t expect one) or “No response from author to WP Org” (because we don’t
