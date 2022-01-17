@@ -2,6 +2,7 @@ backend:
   name: github
   repo: dxw/playbook2
   branch: main
+  open_authoring: true
 media_folder: "_images"
 publish_mode: editorial_workflow
 show_preview_links: true
