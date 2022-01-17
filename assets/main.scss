@@ -132,3 +132,93 @@ strong {
     color: $ivory;
   }
 }
+
+.dropdown__title {
+  background-color: transparent;
+  border: none;
+  font-family: inherit;
+}
+
+nav {
+  background-color: $cream;
+  padding: 0 1rem;
+  display: grid;
+  text-align: right;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+
+    li {
+      padding: 0;
+    }
+  }
+
+  > ul {
+    grid-auto-flow: column;
+
+    > li {
+      margin: 0 0.5rem;
+
+      a,
+      .dropdown__title {
+        text-decoration: none;
+        text-align: left;
+        display: inline-block;
+        color: $navy;
+        font-size: 1.125rem;
+
+        &:hover,
+        &:focus,
+        &:active {
+          text-decoration-line: underline;
+          text-decoration-color: $accent-a;
+          text-decoration-thickness: 0.1em;
+          color: $navy;
+        }
+      }
+
+      > a,
+      .dropdown__title {
+        padding: 1rem 0.5rem;
+      }
+    }
+  }
+}
+
+.dropdown {
+  position: relative;
+
+  .dropdown__menu {
+    position: absolute;
+    background-color: $cream;
+    left: 75%;
+
+    border-radius: 4px;
+    // box-shadow: 0 0.15em 0.25em rgba(black, 0.25);
+    padding: 0.5em 0;
+    min-width: 50ch;
+
+    transform: rotateX(0) translateX(-50%);
+    transform-origin: top center;
+    opacity: 1;
+    visibility: hidden;
+
+    a {
+      color: $navy;
+      display: block;
+      padding: 0.5em;
+    }
+  }
+
+  &:hover,
+  &:focus-within {
+    .dropdown__menu {
+      visibility: visible;
+      opacity: 1;
+      transform: rotateX(0) translateX(-50%);
+    }
+  }
+}
