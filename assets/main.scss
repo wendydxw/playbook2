@@ -49,6 +49,12 @@ strong {
 }
 
 .content {
+  padding-top: 65px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 300px;
   width: 750px;
   margin: 0 auto;
 }
@@ -140,10 +146,28 @@ strong {
 }
 
 nav {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      padding: 0;
+    }
+  }
+}
+
+.app-nav {
   background-color: $cream;
-  padding: 0 1rem;
   display: grid;
+  position: fixed;
   text-align: right;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 10px;
+  z-index: 10;
 
   ul {
     list-style: none;
@@ -201,6 +225,9 @@ nav {
     padding: 0.5em 0;
     min-width: 50ch;
 
+    max-height: 80vh;
+    overflow: scroll;
+
     transform: rotateX(0) translateX(-50%);
     transform-origin: top center;
     opacity: 1;
@@ -219,6 +246,86 @@ nav {
       visibility: visible;
       opacity: 1;
       transform: rotateX(0) translateX(-50%);
+    }
+  }
+}
+
+.sidebar {
+  position: fixed;
+  margin-top: 65px;
+  overflow-y: auto;
+  background: $cream;
+  color: $navy;
+  z-index: 3;
+  padding-top: 0;
+  border-right: 0;
+  width: 300px;
+  max-height: 80vh;
+
+  ul {
+    li {
+      line-height: 1.5;
+      margin-bottom: 0.3em;
+
+      a {
+        color: $navy;
+        font-family: Poppins, sans-serif;
+        font-size: 13pt;
+
+        &:hover,
+        &:focus,
+        > a.active {
+          text-decoration-line: underline;
+          text-decoration-color: $accent-b;
+          text-decoration-thickness: 0.1em;
+        }
+      }
+    }
+  }
+
+  .sidebar-nav {
+    padding-bottom: 0;
+    margin: 30px 15px;
+
+    @include small-screen {
+      margin-bottom: 70px;
+    }
+
+    > h1 {
+      margin: 30px 20px;
+      font-size: 17pt;
+      font-weight: 400;
+      text-align: center;
+    }
+
+    > ul {
+      margin: 15px 0 15px 15px;
+
+      > li {
+        > a {
+          font-weight: 700;
+          font-size: 15pt;
+          text-indent: -20px;
+          padding-left: 20px;
+          overflow: auto;
+          white-space: unset;
+        }
+
+        > ul {
+          margin-left: 0;
+
+          > li {
+            a {
+              font-weight: 400;
+              font-size: 13pt;
+              text-indent: -40px;
+              padding-left: 40px;
+              overflow: auto;
+              white-space: unset;
+            }
+          }
+        }
+      }
     }
   }
 }
