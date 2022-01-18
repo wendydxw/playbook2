@@ -9,6 +9,8 @@ This is very exciting.
 
 More excitement.
 
+![](/_images/the-d-blue-mid-1-.png)
+
 #### A little heading.
 
 * bullets
